@@ -1,0 +1,8285 @@
+{
+  "daily_sleep": [
+    {
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 98,
+        "latency": 83,
+        "rem_sleep": 82,
+        "restfulness": 55,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2023-08-14",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 51,
+        "efficiency": 99,
+        "latency": 72,
+        "rem_sleep": 87,
+        "restfulness": 63,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2023-08-15",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 99,
+        "latency": 67,
+        "rem_sleep": 100,
+        "restfulness": 64,
+        "timing": 100,
+        "total_sleep": 79
+      },
+      "day": "2023-08-16",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 45,
+        "efficiency": 99,
+        "latency": 94,
+        "rem_sleep": 100,
+        "restfulness": 57,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2023-08-17",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 91,
+        "restfulness": 49,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2023-08-18",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 80,
+        "efficiency": 98,
+        "latency": 86,
+        "rem_sleep": 98,
+        "restfulness": 77,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2023-08-19",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 98,
+        "latency": 91,
+        "rem_sleep": 95,
+        "restfulness": 72,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2023-08-20",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 100,
+        "latency": 67,
+        "rem_sleep": 96,
+        "restfulness": 56,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2023-08-21",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 98,
+        "latency": 83,
+        "rem_sleep": 97,
+        "restfulness": 52,
+        "timing": 100,
+        "total_sleep": 70
+      },
+      "day": "2023-08-22",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 93,
+        "latency": 75,
+        "rem_sleep": 82,
+        "restfulness": 64,
+        "timing": 100,
+        "total_sleep": 62
+      },
+      "day": "2023-08-23",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 40,
+        "efficiency": 99,
+        "latency": 67,
+        "rem_sleep": 83,
+        "restfulness": 51,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2023-08-24",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 98,
+        "latency": 91,
+        "rem_sleep": 99,
+        "restfulness": 65,
+        "timing": 100,
+        "total_sleep": 68
+      },
+      "day": "2023-08-25",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 82,
+        "efficiency": 69,
+        "latency": 67,
+        "rem_sleep": 99,
+        "restfulness": 42,
+        "timing": 91,
+        "total_sleep": 89
+      },
+      "day": "2023-08-26",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 74,
+        "latency": 37,
+        "rem_sleep": 100,
+        "restfulness": 69,
+        "timing": 90,
+        "total_sleep": 100
+      },
+      "day": "2023-08-27",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 73,
+        "restfulness": 68,
+        "timing": 100,
+        "total_sleep": 61
+      },
+      "day": "2023-08-28",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 40,
+        "efficiency": 81,
+        "latency": 70,
+        "rem_sleep": 82,
+        "restfulness": 59,
+        "timing": 78,
+        "total_sleep": 67
+      },
+      "day": "2023-08-29",
+      "score": 67
+    },
+    {
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 83,
+        "latency": 89,
+        "rem_sleep": 98,
+        "restfulness": 60,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2023-08-30",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 93,
+        "latency": 91,
+        "rem_sleep": 100,
+        "restfulness": 54,
+        "timing": 92,
+        "total_sleep": 75
+      },
+      "day": "2023-08-31",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 62,
+        "latency": 72,
+        "rem_sleep": 96,
+        "restfulness": 53,
+        "timing": 69,
+        "total_sleep": 84
+      },
+      "day": "2023-09-01",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 99,
+        "latency": 97,
+        "rem_sleep": 100,
+        "restfulness": 56,
+        "timing": 70,
+        "total_sleep": 99
+      },
+      "day": "2023-09-02",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 33,
+        "efficiency": 30,
+        "latency": 1,
+        "rem_sleep": 39,
+        "restfulness": 70,
+        "timing": 21,
+        "total_sleep": 32
+      },
+      "day": "2023-09-03",
+      "score": 34
+    },
+    {
+      "contributors": {
+        "deep_sleep": 43,
+        "efficiency": 97,
+        "latency": 91,
+        "rem_sleep": 100,
+        "restfulness": 59,
+        "timing": 100,
+        "total_sleep": 98
+      },
+      "day": "2023-09-04",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 51,
+        "efficiency": 74,
+        "latency": 83,
+        "rem_sleep": 79,
+        "restfulness": 58,
+        "timing": 72,
+        "total_sleep": 71
+      },
+      "day": "2023-09-05",
+      "score": 69
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 83,
+        "latency": 83,
+        "rem_sleep": 94,
+        "restfulness": 48,
+        "timing": 100,
+        "total_sleep": 89
+      },
+      "day": "2023-09-06",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 93,
+        "latency": 70,
+        "rem_sleep": 74,
+        "restfulness": 67,
+        "timing": 68,
+        "total_sleep": 64
+      },
+      "day": "2023-09-07",
+      "score": 69
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 97,
+        "restfulness": 54,
+        "timing": 93,
+        "total_sleep": 92
+      },
+      "day": "2023-09-08",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 96,
+        "latency": 75,
+        "rem_sleep": 78,
+        "restfulness": 59,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2023-09-09",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 100,
+        "restfulness": 61,
+        "timing": 76,
+        "total_sleep": 98
+      },
+      "day": "2023-09-10",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 93,
+        "latency": 86,
+        "rem_sleep": 100,
+        "restfulness": 62,
+        "timing": 90,
+        "total_sleep": 90
+      },
+      "day": "2023-09-11",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 88,
+        "latency": 72,
+        "rem_sleep": 76,
+        "restfulness": 60,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2023-09-12",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 83,
+        "latency": 83,
+        "rem_sleep": 96,
+        "restfulness": 54,
+        "timing": 100,
+        "total_sleep": 79
+      },
+      "day": "2023-09-13",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 79,
+        "latency": 75,
+        "rem_sleep": 98,
+        "restfulness": 48,
+        "timing": 89,
+        "total_sleep": 87
+      },
+      "day": "2023-09-14",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 92,
+        "restfulness": 52,
+        "timing": 92,
+        "total_sleep": 80
+      },
+      "day": "2023-09-15",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 79,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 72,
+        "timing": 96,
+        "total_sleep": 96
+      },
+      "day": "2023-09-16",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 83,
+        "latency": 94,
+        "rem_sleep": 98,
+        "restfulness": 62,
+        "timing": 82,
+        "total_sleep": 96
+      },
+      "day": "2023-09-17",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 86,
+        "efficiency": 95,
+        "latency": 89,
+        "rem_sleep": 97,
+        "restfulness": 62,
+        "timing": 87,
+        "total_sleep": 87
+      },
+      "day": "2023-09-18",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 43,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 93,
+        "restfulness": 55,
+        "timing": 100,
+        "total_sleep": 66
+      },
+      "day": "2023-09-19",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 86,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 49,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2023-09-20",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 96,
+        "latency": 70,
+        "rem_sleep": 100,
+        "restfulness": 52,
+        "timing": 98,
+        "total_sleep": 92
+      },
+      "day": "2023-09-21",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 74,
+        "latency": 72,
+        "rem_sleep": 97,
+        "restfulness": 45,
+        "timing": 91,
+        "total_sleep": 90
+      },
+      "day": "2023-09-22",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 99,
+        "latency": 97,
+        "rem_sleep": 98,
+        "restfulness": 73,
+        "timing": 88,
+        "total_sleep": 83
+      },
+      "day": "2023-09-23",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 81,
+        "latency": 72,
+        "rem_sleep": 95,
+        "restfulness": 46,
+        "timing": 100,
+        "total_sleep": 95
+      },
+      "day": "2023-09-24",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 38,
+        "efficiency": 86,
+        "latency": 97,
+        "rem_sleep": 82,
+        "restfulness": 50,
+        "timing": 100,
+        "total_sleep": 98
+      },
+      "day": "2023-09-25",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 65,
+        "latency": 75,
+        "rem_sleep": 87,
+        "restfulness": 42,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2023-09-26",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 58,
+        "latency": 97,
+        "rem_sleep": 79,
+        "restfulness": 23,
+        "timing": 100,
+        "total_sleep": 81
+      },
+      "day": "2023-09-27",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 95,
+        "latency": 91,
+        "rem_sleep": 100,
+        "restfulness": 55,
+        "timing": 100,
+        "total_sleep": 100
+      },
+      "day": "2023-09-28",
+      "score": 91
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 97,
+        "latency": 83,
+        "rem_sleep": 80,
+        "restfulness": 61,
+        "timing": 80,
+        "total_sleep": 82
+      },
+      "day": "2023-09-29",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 67,
+        "latency": 83,
+        "rem_sleep": 43,
+        "restfulness": 73,
+        "timing": 87,
+        "total_sleep": 24
+      },
+      "day": "2023-09-30",
+      "score": 52
+    },
+    {
+      "contributors": {
+        "deep_sleep": 45,
+        "efficiency": 86,
+        "latency": 94,
+        "rem_sleep": 98,
+        "restfulness": 56,
+        "timing": 84,
+        "total_sleep": 97
+      },
+      "day": "2023-10-01",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 93,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 66,
+        "timing": 95,
+        "total_sleep": 89
+      },
+      "day": "2023-10-02",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 34,
+        "latency": 86,
+        "rem_sleep": 78,
+        "restfulness": 31,
+        "timing": 54,
+        "total_sleep": 100
+      },
+      "day": "2023-10-03",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 74,
+        "latency": 70,
+        "rem_sleep": 56,
+        "restfulness": 48,
+        "timing": 88,
+        "total_sleep": 79
+      },
+      "day": "2023-10-04",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 60,
+        "latency": 78,
+        "rem_sleep": 82,
+        "restfulness": 26,
+        "timing": 100,
+        "total_sleep": 91
+      },
+      "day": "2023-10-05",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 83,
+        "latency": 86,
+        "rem_sleep": 52,
+        "restfulness": 41,
+        "timing": 57,
+        "total_sleep": 96
+      },
+      "day": "2023-10-06",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 81,
+        "latency": 72,
+        "rem_sleep": 98,
+        "restfulness": 58,
+        "timing": 51,
+        "total_sleep": 100
+      },
+      "day": "2023-10-07",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 88,
+        "latency": 72,
+        "rem_sleep": 70,
+        "restfulness": 46,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2023-10-08",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 96,
+        "latency": 86,
+        "rem_sleep": 100,
+        "restfulness": 56,
+        "timing": 100,
+        "total_sleep": 97
+      },
+      "day": "2023-10-09",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 88,
+        "latency": 78,
+        "rem_sleep": 99,
+        "restfulness": 58,
+        "timing": 100,
+        "total_sleep": 91
+      },
+      "day": "2023-10-10",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 79,
+        "latency": 67,
+        "rem_sleep": 96,
+        "restfulness": 59,
+        "timing": 71,
+        "total_sleep": 81
+      },
+      "day": "2023-10-11",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 79,
+        "latency": 70,
+        "rem_sleep": 96,
+        "restfulness": 66,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2023-10-12",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 76,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 48,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2023-10-13",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 30,
+        "latency": 97,
+        "rem_sleep": 73,
+        "restfulness": 25,
+        "timing": 59,
+        "total_sleep": 62
+      },
+      "day": "2023-10-14",
+      "score": 56
+    },
+    {
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 74,
+        "latency": 1,
+        "rem_sleep": 100,
+        "restfulness": 52,
+        "timing": 81,
+        "total_sleep": 98
+      },
+      "day": "2023-10-15",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 86,
+        "latency": 72,
+        "rem_sleep": 97,
+        "restfulness": 71,
+        "timing": 97,
+        "total_sleep": 89
+      },
+      "day": "2023-10-16",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 76,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 32,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2023-10-17",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 74,
+        "latency": 83,
+        "rem_sleep": 96,
+        "restfulness": 56,
+        "timing": 100,
+        "total_sleep": 79
+      },
+      "day": "2023-10-18",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 67,
+        "latency": 94,
+        "rem_sleep": 89,
+        "restfulness": 52,
+        "timing": 100,
+        "total_sleep": 81
+      },
+      "day": "2023-10-19",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 98,
+        "restfulness": 55,
+        "timing": 100,
+        "total_sleep": 81
+      },
+      "day": "2023-10-20",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 81,
+        "latency": 64,
+        "rem_sleep": 61,
+        "restfulness": 51,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2023-10-21",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 95,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 79
+      },
+      "day": "2023-10-22",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 81,
+        "latency": 67,
+        "rem_sleep": 100,
+        "restfulness": 54,
+        "timing": 100,
+        "total_sleep": 95
+      },
+      "day": "2023-10-23",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 93,
+        "latency": 86,
+        "rem_sleep": 99,
+        "restfulness": 62,
+        "timing": 100,
+        "total_sleep": 90
+      },
+      "day": "2023-10-24",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 96,
+        "latency": 72,
+        "rem_sleep": 95,
+        "restfulness": 48,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2023-10-25",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 76,
+        "latency": 72,
+        "rem_sleep": 97,
+        "restfulness": 48,
+        "timing": 100,
+        "total_sleep": 90
+      },
+      "day": "2023-10-26",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 74,
+        "latency": 70,
+        "rem_sleep": 96,
+        "restfulness": 53,
+        "timing": 100,
+        "total_sleep": 90
+      },
+      "day": "2023-10-27",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 98,
+        "restfulness": 48,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2023-10-28",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 95,
+        "latency": 99,
+        "rem_sleep": 100,
+        "restfulness": 56,
+        "timing": 100,
+        "total_sleep": 96
+      },
+      "day": "2023-10-29",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 98,
+        "restfulness": 48,
+        "timing": 100,
+        "total_sleep": 85
+      },
+      "day": "2023-10-30",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 86,
+        "latency": 81,
+        "rem_sleep": 94,
+        "restfulness": 53,
+        "timing": 80,
+        "total_sleep": 73
+      },
+      "day": "2023-10-31",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 86,
+        "latency": 70,
+        "rem_sleep": 95,
+        "restfulness": 50,
+        "timing": 90,
+        "total_sleep": 82
+      },
+      "day": "2023-11-01",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 76,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 48,
+        "timing": 94,
+        "total_sleep": 90
+      },
+      "day": "2023-11-02",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 86,
+        "latency": 83,
+        "rem_sleep": 99,
+        "restfulness": 58,
+        "timing": 100,
+        "total_sleep": 84
+      },
+      "day": "2023-11-03",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 95,
+        "latency": 78,
+        "rem_sleep": 59,
+        "restfulness": 62,
+        "timing": 100,
+        "total_sleep": 58
+      },
+      "day": "2023-11-04",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 74,
+        "latency": 94,
+        "rem_sleep": 98,
+        "restfulness": 51,
+        "timing": 94,
+        "total_sleep": 87
+      },
+      "day": "2023-11-05",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 86,
+        "latency": 97,
+        "rem_sleep": 99,
+        "restfulness": 48,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2023-11-06",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 30,
+        "efficiency": 93,
+        "latency": 72,
+        "rem_sleep": 92,
+        "restfulness": 53,
+        "timing": 95,
+        "total_sleep": 89
+      },
+      "day": "2023-11-07",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 90,
+        "latency": 81,
+        "rem_sleep": 91,
+        "restfulness": 47,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2023-11-08",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 74,
+        "latency": 32,
+        "rem_sleep": 95,
+        "restfulness": 56,
+        "timing": 99,
+        "total_sleep": 93
+      },
+      "day": "2023-11-09",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 51,
+        "efficiency": 41,
+        "latency": 18,
+        "rem_sleep": 96,
+        "restfulness": 21,
+        "timing": 77,
+        "total_sleep": 100
+      },
+      "day": "2023-11-10",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 97,
+        "latency": 75,
+        "rem_sleep": 96,
+        "restfulness": 59,
+        "timing": 44,
+        "total_sleep": 82
+      },
+      "day": "2023-11-11",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 76,
+        "latency": 72,
+        "rem_sleep": 100,
+        "restfulness": 51,
+        "timing": 79,
+        "total_sleep": 100
+      },
+      "day": "2023-11-12",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 20,
+        "efficiency": 41,
+        "latency": 1,
+        "rem_sleep": 77,
+        "restfulness": 35,
+        "timing": 33,
+        "total_sleep": 55
+      },
+      "day": "2023-11-13",
+      "score": 42
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 81,
+        "latency": 59,
+        "rem_sleep": 92,
+        "restfulness": 67,
+        "timing": 77,
+        "total_sleep": 62
+      },
+      "day": "2023-11-14",
+      "score": 67
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 88,
+        "latency": 83,
+        "rem_sleep": 95,
+        "restfulness": 63,
+        "timing": 75,
+        "total_sleep": 72
+      },
+      "day": "2023-11-15",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 96,
+        "latency": 78,
+        "rem_sleep": 99,
+        "restfulness": 70,
+        "timing": 80,
+        "total_sleep": 83
+      },
+      "day": "2023-11-16",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 95,
+        "latency": 67,
+        "rem_sleep": 99,
+        "restfulness": 59,
+        "timing": 85,
+        "total_sleep": 83
+      },
+      "day": "2023-11-17",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 58,
+        "latency": 72,
+        "rem_sleep": 97,
+        "restfulness": 60,
+        "timing": 74,
+        "total_sleep": 100
+      },
+      "day": "2023-11-18",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 44,
+        "efficiency": 72,
+        "latency": 78,
+        "rem_sleep": 99,
+        "restfulness": 53,
+        "timing": 67,
+        "total_sleep": 94
+      },
+      "day": "2023-11-19",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 90,
+        "latency": 89,
+        "rem_sleep": 96,
+        "restfulness": 57,
+        "timing": 74,
+        "total_sleep": 74
+      },
+      "day": "2023-11-20",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 48,
+        "latency": 86,
+        "rem_sleep": 61,
+        "restfulness": 28,
+        "timing": 84,
+        "total_sleep": 70
+      },
+      "day": "2023-11-21",
+      "score": 62
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 97,
+        "latency": 89,
+        "rem_sleep": 97,
+        "restfulness": 54,
+        "timing": 99,
+        "total_sleep": 95
+      },
+      "day": "2023-11-22",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 76,
+        "latency": 75,
+        "rem_sleep": 81,
+        "restfulness": 52,
+        "timing": 87,
+        "total_sleep": 68
+      },
+      "day": "2023-11-23",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 93,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 52,
+        "timing": 83,
+        "total_sleep": 84
+      },
+      "day": "2023-11-24",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 86,
+        "latency": 81,
+        "rem_sleep": 94,
+        "restfulness": 54,
+        "timing": 69,
+        "total_sleep": 80
+      },
+      "day": "2023-11-25",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 86,
+        "efficiency": 86,
+        "latency": 78,
+        "rem_sleep": 91,
+        "restfulness": 66,
+        "timing": 57,
+        "total_sleep": 85
+      },
+      "day": "2023-11-26",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 96,
+        "latency": 94,
+        "rem_sleep": 84,
+        "restfulness": 67,
+        "timing": 62,
+        "total_sleep": 53
+      },
+      "day": "2023-11-27",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 80,
+        "efficiency": 96,
+        "latency": 94,
+        "rem_sleep": 96,
+        "restfulness": 63,
+        "timing": 94,
+        "total_sleep": 80
+      },
+      "day": "2023-11-28",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 74,
+        "latency": 89,
+        "rem_sleep": 98,
+        "restfulness": 53,
+        "timing": 99,
+        "total_sleep": 84
+      },
+      "day": "2023-11-29",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 90,
+        "efficiency": 93,
+        "latency": 64,
+        "rem_sleep": 75,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2023-11-30",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 80,
+        "efficiency": 62,
+        "latency": 83,
+        "rem_sleep": 64,
+        "restfulness": 40,
+        "timing": 57,
+        "total_sleep": 85
+      },
+      "day": "2023-12-01",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 96,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 52,
+        "timing": 65,
+        "total_sleep": 80
+      },
+      "day": "2023-12-02",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 96,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 47,
+        "timing": 74,
+        "total_sleep": 65
+      },
+      "day": "2023-12-03",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 83,
+        "latency": 89,
+        "rem_sleep": 72,
+        "restfulness": 46,
+        "timing": 97,
+        "total_sleep": 68
+      },
+      "day": "2023-12-04",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 81,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 57,
+        "timing": 50,
+        "total_sleep": 74
+      },
+      "day": "2023-12-05",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 79,
+        "latency": 91,
+        "rem_sleep": 95,
+        "restfulness": 50,
+        "timing": 70,
+        "total_sleep": 88
+      },
+      "day": "2023-12-06",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 76,
+        "latency": 70,
+        "rem_sleep": 96,
+        "restfulness": 49,
+        "timing": 56,
+        "total_sleep": 80
+      },
+      "day": "2023-12-07",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 90,
+        "efficiency": 79,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 56,
+        "timing": 77,
+        "total_sleep": 98
+      },
+      "day": "2023-12-08",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 95,
+        "latency": 97,
+        "rem_sleep": 79,
+        "restfulness": 55,
+        "timing": 89,
+        "total_sleep": 71
+      },
+      "day": "2023-12-09",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 44,
+        "efficiency": 90,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 52,
+        "timing": 49,
+        "total_sleep": 76
+      },
+      "day": "2023-12-10",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 27,
+        "efficiency": 55,
+        "latency": 43,
+        "rem_sleep": 72,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 62
+      },
+      "day": "2023-12-11",
+      "score": 61
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 100,
+        "restfulness": 65,
+        "timing": 100,
+        "total_sleep": 95
+      },
+      "day": "2023-12-12",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 43,
+        "efficiency": 58,
+        "latency": 67,
+        "rem_sleep": 71,
+        "restfulness": 55,
+        "timing": 85,
+        "total_sleep": 67
+      },
+      "day": "2023-12-13",
+      "score": 64
+    },
+    {
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 83,
+        "latency": 67,
+        "rem_sleep": 90,
+        "restfulness": 52,
+        "timing": 96,
+        "total_sleep": 93
+      },
+      "day": "2023-12-14",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 88,
+        "latency": 83,
+        "rem_sleep": 59,
+        "restfulness": 52,
+        "timing": 65,
+        "total_sleep": 59
+      },
+      "day": "2023-12-15",
+      "score": 65
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 65,
+        "latency": 86,
+        "rem_sleep": 97,
+        "restfulness": 59,
+        "timing": 70,
+        "total_sleep": 90
+      },
+      "day": "2023-12-16",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 93,
+        "latency": 64,
+        "rem_sleep": 95,
+        "restfulness": 51,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2023-12-17",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 76,
+        "latency": 89,
+        "rem_sleep": 100,
+        "restfulness": 57,
+        "timing": 100,
+        "total_sleep": 91
+      },
+      "day": "2023-12-18",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 37,
+        "efficiency": 97,
+        "latency": 75,
+        "rem_sleep": 78,
+        "restfulness": 65,
+        "timing": 100,
+        "total_sleep": 57
+      },
+      "day": "2023-12-19",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 82,
+        "efficiency": 60,
+        "latency": 94,
+        "rem_sleep": 96,
+        "restfulness": 58,
+        "timing": 100,
+        "total_sleep": 63
+      },
+      "day": "2023-12-20",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 97,
+        "latency": 86,
+        "rem_sleep": 97,
+        "restfulness": 43,
+        "timing": 56,
+        "total_sleep": 72
+      },
+      "day": "2023-12-21",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 94,
+        "efficiency": 83,
+        "latency": 72,
+        "rem_sleep": 91,
+        "restfulness": 57,
+        "timing": 91,
+        "total_sleep": 83
+      },
+      "day": "2023-12-22",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 86,
+        "latency": 97,
+        "rem_sleep": 84,
+        "restfulness": 51,
+        "timing": 95,
+        "total_sleep": 67
+      },
+      "day": "2023-12-23",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 69,
+        "timing": 72,
+        "total_sleep": 91
+      },
+      "day": "2023-12-24",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 97,
+        "latency": 91,
+        "rem_sleep": 78,
+        "restfulness": 50,
+        "timing": 100,
+        "total_sleep": 60
+      },
+      "day": "2023-12-25",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 98,
+        "latency": 78,
+        "rem_sleep": 97,
+        "restfulness": 57,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2023-12-26",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 51,
+        "efficiency": 81,
+        "latency": 32,
+        "rem_sleep": 82,
+        "restfulness": 43,
+        "timing": 98,
+        "total_sleep": 72
+      },
+      "day": "2023-12-27",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 90,
+        "latency": 91,
+        "rem_sleep": 97,
+        "restfulness": 58,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2023-12-28",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 97,
+        "latency": 67,
+        "rem_sleep": 100,
+        "restfulness": 59,
+        "timing": 95,
+        "total_sleep": 99
+      },
+      "day": "2023-12-29",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 44,
+        "efficiency": 88,
+        "latency": 99,
+        "rem_sleep": 85,
+        "restfulness": 57,
+        "timing": 99,
+        "total_sleep": 64
+      },
+      "day": "2023-12-30",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 88,
+        "latency": 64,
+        "rem_sleep": 97,
+        "restfulness": 59,
+        "timing": 48,
+        "total_sleep": 91
+      },
+      "day": "2023-12-31",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 86,
+        "latency": 83,
+        "rem_sleep": 99,
+        "restfulness": 56,
+        "timing": 80,
+        "total_sleep": 81
+      },
+      "day": "2024-01-01",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 93,
+        "latency": 86,
+        "rem_sleep": 100,
+        "restfulness": 57,
+        "timing": 86,
+        "total_sleep": 97
+      },
+      "day": "2024-01-02",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 37,
+        "latency": 75,
+        "rem_sleep": 54,
+        "restfulness": 57,
+        "timing": 68,
+        "total_sleep": 64
+      },
+      "day": "2024-01-03",
+      "score": 59
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 98,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 49,
+        "timing": 100,
+        "total_sleep": 81
+      },
+      "day": "2024-01-04",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 76,
+        "latency": 72,
+        "rem_sleep": 73,
+        "restfulness": 62,
+        "timing": 100,
+        "total_sleep": 68
+      },
+      "day": "2024-01-05",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 33,
+        "efficiency": 95,
+        "latency": 56,
+        "rem_sleep": 98,
+        "restfulness": 71,
+        "timing": 73,
+        "total_sleep": 74
+      },
+      "day": "2024-01-06",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 99,
+        "restfulness": 50,
+        "timing": 76,
+        "total_sleep": 82
+      },
+      "day": "2024-01-07",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 44,
+        "efficiency": 88,
+        "latency": 99,
+        "rem_sleep": 80,
+        "restfulness": 54,
+        "timing": 80,
+        "total_sleep": 80
+      },
+      "day": "2024-01-08",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 76,
+        "latency": 81,
+        "rem_sleep": 65,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 64
+      },
+      "day": "2024-01-09",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 90,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 59,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2024-01-10",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 58,
+        "latency": 64,
+        "rem_sleep": 96,
+        "restfulness": 70,
+        "timing": 97,
+        "total_sleep": 93
+      },
+      "day": "2024-01-11",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 26,
+        "efficiency": 95,
+        "latency": 78,
+        "rem_sleep": 29,
+        "restfulness": 68,
+        "timing": 35,
+        "total_sleep": 18
+      },
+      "day": "2024-01-12",
+      "score": 43
+    },
+    {
+      "contributors": {
+        "deep_sleep": 97,
+        "efficiency": 90,
+        "latency": 70,
+        "rem_sleep": 100,
+        "restfulness": 68,
+        "timing": 84,
+        "total_sleep": 100
+      },
+      "day": "2024-01-13",
+      "score": 90
+    },
+    {
+      "contributors": {
+        "deep_sleep": 86,
+        "efficiency": 93,
+        "latency": 70,
+        "rem_sleep": 84,
+        "restfulness": 55,
+        "timing": 69,
+        "total_sleep": 98
+      },
+      "day": "2024-01-14",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 79,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 71,
+        "timing": 86,
+        "total_sleep": 81
+      },
+      "day": "2024-01-15",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 45,
+        "efficiency": 97,
+        "latency": 64,
+        "rem_sleep": 97,
+        "restfulness": 66,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2024-01-16",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 90,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 53,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2024-01-17",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 100,
+        "latency": 83,
+        "rem_sleep": 98,
+        "restfulness": 61,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2024-01-18",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 68,
+        "efficiency": 98,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 54,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2024-01-19",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 88,
+        "latency": 89,
+        "rem_sleep": 90,
+        "restfulness": 61,
+        "timing": 100,
+        "total_sleep": 63
+      },
+      "day": "2024-01-20",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 99,
+        "latency": 91,
+        "rem_sleep": 87,
+        "restfulness": 65,
+        "timing": 92,
+        "total_sleep": 66
+      },
+      "day": "2024-01-21",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 84,
+        "restfulness": 60,
+        "timing": 100,
+        "total_sleep": 86
+      },
+      "day": "2024-01-22",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 99,
+        "latency": 94,
+        "rem_sleep": 100,
+        "restfulness": 62,
+        "timing": 100,
+        "total_sleep": 88
+      },
+      "day": "2024-01-23",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 64,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2024-01-24",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 97,
+        "latency": 72,
+        "rem_sleep": 98,
+        "restfulness": 69,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2024-01-25",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 86,
+        "latency": 83,
+        "rem_sleep": 98,
+        "restfulness": 56,
+        "timing": 100,
+        "total_sleep": 84
+      },
+      "day": "2024-01-26",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 93,
+        "restfulness": 62,
+        "timing": 100,
+        "total_sleep": 66
+      },
+      "day": "2024-01-27",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 93,
+        "latency": 91,
+        "rem_sleep": 99,
+        "restfulness": 62,
+        "timing": 100,
+        "total_sleep": 79
+      },
+      "day": "2024-01-28",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 95,
+        "latency": 89,
+        "rem_sleep": 95,
+        "restfulness": 62,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2024-01-29",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 95,
+        "latency": 59,
+        "rem_sleep": 98,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2024-01-30",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 88,
+        "latency": 64,
+        "rem_sleep": 73,
+        "restfulness": 67,
+        "timing": 93,
+        "total_sleep": 48
+      },
+      "day": "2024-01-31",
+      "score": 65
+    },
+    {
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 99,
+        "latency": 81,
+        "rem_sleep": 98,
+        "restfulness": 58,
+        "timing": 100,
+        "total_sleep": 79
+      },
+      "day": "2024-02-01",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 95,
+        "latency": 91,
+        "rem_sleep": 71,
+        "restfulness": 52,
+        "timing": 96,
+        "total_sleep": 54
+      },
+      "day": "2024-02-02",
+      "score": 67
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 100,
+        "latency": 97,
+        "rem_sleep": 99,
+        "restfulness": 72,
+        "timing": 100,
+        "total_sleep": 71
+      },
+      "day": "2024-02-03",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 100,
+        "latency": 83,
+        "rem_sleep": 96,
+        "restfulness": 70,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2024-02-04",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 95,
+        "latency": 83,
+        "rem_sleep": 98,
+        "restfulness": 64,
+        "timing": 100,
+        "total_sleep": 86
+      },
+      "day": "2024-02-05",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 30,
+        "efficiency": 98,
+        "latency": 89,
+        "rem_sleep": 98,
+        "restfulness": 60,
+        "timing": 100,
+        "total_sleep": 87
+      },
+      "day": "2024-02-06",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 44,
+        "efficiency": 100,
+        "latency": 81,
+        "rem_sleep": 77,
+        "restfulness": 68,
+        "timing": 100,
+        "total_sleep": 64
+      },
+      "day": "2024-02-07",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 99,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 71,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2024-02-08",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 98,
+        "latency": 64,
+        "rem_sleep": 88,
+        "restfulness": 81,
+        "timing": 100,
+        "total_sleep": 60
+      },
+      "day": "2024-02-09",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 68,
+        "efficiency": 98,
+        "latency": 83,
+        "rem_sleep": 69,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 56
+      },
+      "day": "2024-02-10",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 100,
+        "latency": 97,
+        "rem_sleep": 100,
+        "restfulness": 80,
+        "timing": 100,
+        "total_sleep": 92
+      },
+      "day": "2024-02-11",
+      "score": 92
+    },
+    {
+      "contributors": {
+        "deep_sleep": 31,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 95,
+        "restfulness": 61,
+        "timing": 100,
+        "total_sleep": 68
+      },
+      "day": "2024-02-12",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 45,
+        "efficiency": 69,
+        "latency": 94,
+        "rem_sleep": 79,
+        "restfulness": 56,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2024-02-13",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 100,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 63,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2024-02-14",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 96,
+        "latency": 72,
+        "rem_sleep": 94,
+        "restfulness": 69,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2024-02-15",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 44,
+        "efficiency": 98,
+        "latency": 99,
+        "rem_sleep": 96,
+        "restfulness": 56,
+        "timing": 100,
+        "total_sleep": 66
+      },
+      "day": "2024-02-16",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 86,
+        "latency": 75,
+        "rem_sleep": 89,
+        "restfulness": 60,
+        "timing": 100,
+        "total_sleep": 62
+      },
+      "day": "2024-02-17",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 90,
+        "latency": 67,
+        "rem_sleep": 100,
+        "restfulness": 76,
+        "timing": 82,
+        "total_sleep": 99
+      },
+      "day": "2024-02-18",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 82,
+        "efficiency": 96,
+        "latency": 70,
+        "rem_sleep": 91,
+        "restfulness": 61,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2024-02-19",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 45,
+        "efficiency": 97,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 59,
+        "timing": 100,
+        "total_sleep": 86
+      },
+      "day": "2024-02-20",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 93,
+        "latency": 67,
+        "rem_sleep": 73,
+        "restfulness": 55,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2024-02-21",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 90,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 75,
+        "timing": 100,
+        "total_sleep": 81
+      },
+      "day": "2024-02-22",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 83,
+        "latency": 94,
+        "rem_sleep": 71,
+        "restfulness": 63,
+        "timing": 91,
+        "total_sleep": 66
+      },
+      "day": "2024-02-23",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 51,
+        "efficiency": 79,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 53,
+        "timing": 95,
+        "total_sleep": 93
+      },
+      "day": "2024-02-24",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 76,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 47,
+        "timing": 79,
+        "total_sleep": 100
+      },
+      "day": "2024-02-25",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 38,
+        "efficiency": 88,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 57,
+        "timing": 100,
+        "total_sleep": 84
+      },
+      "day": "2024-02-26",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 27,
+        "efficiency": 69,
+        "latency": 78,
+        "rem_sleep": 97,
+        "restfulness": 54,
+        "timing": 100,
+        "total_sleep": 91
+      },
+      "day": "2024-02-27",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 98,
+        "restfulness": 54,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2024-02-28",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 72,
+        "latency": 86,
+        "rem_sleep": 97,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2024-02-29",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 97,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 74,
+        "timing": 89,
+        "total_sleep": 79
+      },
+      "day": "2024-03-01",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 83,
+        "latency": 78,
+        "rem_sleep": 82,
+        "restfulness": 58,
+        "timing": 92,
+        "total_sleep": 60
+      },
+      "day": "2024-03-02",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 67,
+        "latency": 72,
+        "rem_sleep": 75,
+        "restfulness": 79,
+        "timing": 88,
+        "total_sleep": 56
+      },
+      "day": "2024-03-03",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 76,
+        "latency": 94,
+        "rem_sleep": 99,
+        "restfulness": 45,
+        "timing": 100,
+        "total_sleep": 92
+      },
+      "day": "2024-03-04",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 83,
+        "latency": 78,
+        "rem_sleep": 99,
+        "restfulness": 71,
+        "timing": 100,
+        "total_sleep": 85
+      },
+      "day": "2024-03-05",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 88,
+        "latency": 97,
+        "rem_sleep": 100,
+        "restfulness": 60,
+        "timing": 83,
+        "total_sleep": 93
+      },
+      "day": "2024-03-06",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 97,
+        "restfulness": 62,
+        "timing": 100,
+        "total_sleep": 85
+      },
+      "day": "2024-03-07",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 23,
+        "efficiency": 81,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 68,
+        "timing": 51,
+        "total_sleep": 73
+      },
+      "day": "2024-03-08",
+      "score": 69
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 98,
+        "latency": 78,
+        "rem_sleep": 98,
+        "restfulness": 54,
+        "timing": 83,
+        "total_sleep": 96
+      },
+      "day": "2024-03-09",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 27,
+        "efficiency": 55,
+        "latency": 1,
+        "rem_sleep": 97,
+        "restfulness": 41,
+        "timing": 62,
+        "total_sleep": 79
+      },
+      "day": "2024-03-10",
+      "score": 58
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 65,
+        "latency": 78,
+        "rem_sleep": 82,
+        "restfulness": 59,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2024-03-11",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 56,
+        "timing": 84,
+        "total_sleep": 90
+      },
+      "day": "2024-03-12",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 69,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 57,
+        "timing": 93,
+        "total_sleep": 76
+      },
+      "day": "2024-03-13",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 81,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 64,
+        "timing": 83,
+        "total_sleep": 79
+      },
+      "day": "2024-03-14",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 96,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 63,
+        "timing": 82,
+        "total_sleep": 100
+      },
+      "day": "2024-03-15",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 83,
+        "latency": 97,
+        "rem_sleep": 81,
+        "restfulness": 53,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2024-03-16",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 86,
+        "latency": 78,
+        "rem_sleep": 74,
+        "restfulness": 67,
+        "timing": 99,
+        "total_sleep": 62
+      },
+      "day": "2024-03-17",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 97,
+        "latency": 86,
+        "rem_sleep": 100,
+        "restfulness": 68,
+        "timing": 81,
+        "total_sleep": 96
+      },
+      "day": "2024-03-18",
+      "score": 90
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 96,
+        "latency": 89,
+        "rem_sleep": 98,
+        "restfulness": 63,
+        "timing": 96,
+        "total_sleep": 88
+      },
+      "day": "2024-03-19",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 83,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 52,
+        "timing": 91,
+        "total_sleep": 89
+      },
+      "day": "2024-03-20",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 53,
+        "latency": 19,
+        "rem_sleep": 65,
+        "restfulness": 58,
+        "timing": 54,
+        "total_sleep": 59
+      },
+      "day": "2024-03-21",
+      "score": 52
+    },
+    {
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 98,
+        "latency": 91,
+        "rem_sleep": 100,
+        "restfulness": 75,
+        "timing": 70,
+        "total_sleep": 96
+      },
+      "day": "2024-03-22",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 74,
+        "latency": 72,
+        "rem_sleep": 72,
+        "restfulness": 32,
+        "timing": 100,
+        "total_sleep": 48
+      },
+      "day": "2024-03-23",
+      "score": 58
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 100,
+        "latency": 89,
+        "rem_sleep": 100,
+        "restfulness": 73,
+        "timing": 100,
+        "total_sleep": 98
+      },
+      "day": "2024-03-24",
+      "score": 90
+    },
+    {
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 81,
+        "latency": 97,
+        "rem_sleep": 97,
+        "restfulness": 67,
+        "timing": 93,
+        "total_sleep": 93
+      },
+      "day": "2024-03-25",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 83,
+        "latency": 91,
+        "rem_sleep": 97,
+        "restfulness": 63,
+        "timing": 96,
+        "total_sleep": 80
+      },
+      "day": "2024-03-26",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 88,
+        "latency": 83,
+        "rem_sleep": 79,
+        "restfulness": 60,
+        "timing": 91,
+        "total_sleep": 72
+      },
+      "day": "2024-03-27",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 99,
+        "restfulness": 54,
+        "timing": 78,
+        "total_sleep": 87
+      },
+      "day": "2024-03-28",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 40,
+        "efficiency": 62,
+        "latency": 18,
+        "rem_sleep": 97,
+        "restfulness": 69,
+        "timing": 58,
+        "total_sleep": 72
+      },
+      "day": "2024-03-29",
+      "score": 63
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 88,
+        "latency": 94,
+        "rem_sleep": 92,
+        "restfulness": 60,
+        "timing": 68,
+        "total_sleep": 82
+      },
+      "day": "2024-03-30",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 74,
+        "latency": 94,
+        "rem_sleep": 100,
+        "restfulness": 54,
+        "timing": 61,
+        "total_sleep": 85
+      },
+      "day": "2024-03-31",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 81,
+        "latency": 97,
+        "rem_sleep": 97,
+        "restfulness": 68,
+        "timing": 87,
+        "total_sleep": 88
+      },
+      "day": "2024-04-01",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 37,
+        "efficiency": 81,
+        "latency": 81,
+        "rem_sleep": 91,
+        "restfulness": 44,
+        "timing": 93,
+        "total_sleep": 77
+      },
+      "day": "2024-04-02",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 90,
+        "latency": 94,
+        "rem_sleep": 96,
+        "restfulness": 57,
+        "timing": 83,
+        "total_sleep": 89
+      },
+      "day": "2024-04-03",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 99,
+        "latency": 91,
+        "rem_sleep": 99,
+        "restfulness": 64,
+        "timing": 87,
+        "total_sleep": 95
+      },
+      "day": "2024-04-04",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 79,
+        "latency": 83,
+        "rem_sleep": 91,
+        "restfulness": 48,
+        "timing": 100,
+        "total_sleep": 88
+      },
+      "day": "2024-04-05",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 72,
+        "latency": 78,
+        "rem_sleep": 79,
+        "restfulness": 53,
+        "timing": 92,
+        "total_sleep": 77
+      },
+      "day": "2024-04-06",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 90,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 61,
+        "timing": 89,
+        "total_sleep": 97
+      },
+      "day": "2024-04-07",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 68,
+        "efficiency": 95,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 57,
+        "timing": 97,
+        "total_sleep": 91
+      },
+      "day": "2024-04-08",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 88,
+        "latency": 89,
+        "rem_sleep": 99,
+        "restfulness": 64,
+        "timing": 100,
+        "total_sleep": 95
+      },
+      "day": "2024-04-09",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 90,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 52,
+        "timing": 88,
+        "total_sleep": 77
+      },
+      "day": "2024-04-10",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 79,
+        "latency": 72,
+        "rem_sleep": 98,
+        "restfulness": 60,
+        "timing": 94,
+        "total_sleep": 80
+      },
+      "day": "2024-04-11",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 83,
+        "latency": 89,
+        "rem_sleep": 97,
+        "restfulness": 58,
+        "timing": 98,
+        "total_sleep": 94
+      },
+      "day": "2024-04-12",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 90,
+        "latency": 81,
+        "rem_sleep": 91,
+        "restfulness": 59,
+        "timing": 88,
+        "total_sleep": 76
+      },
+      "day": "2024-04-13",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 81,
+        "latency": 70,
+        "rem_sleep": 70,
+        "restfulness": 66,
+        "timing": 51,
+        "total_sleep": 77
+      },
+      "day": "2024-04-14",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 95,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 71,
+        "timing": 98,
+        "total_sleep": 73
+      },
+      "day": "2024-04-15",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 98,
+        "latency": 75,
+        "rem_sleep": 99,
+        "restfulness": 54,
+        "timing": 93,
+        "total_sleep": 87
+      },
+      "day": "2024-04-16",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 95,
+        "latency": 70,
+        "rem_sleep": 100,
+        "restfulness": 63,
+        "timing": 80,
+        "total_sleep": 94
+      },
+      "day": "2024-04-17",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 88,
+        "latency": 97,
+        "rem_sleep": 95,
+        "restfulness": 64,
+        "timing": 79,
+        "total_sleep": 82
+      },
+      "day": "2024-04-18",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 34,
+        "efficiency": 72,
+        "latency": 91,
+        "rem_sleep": 97,
+        "restfulness": 64,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2024-04-19",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 74,
+        "latency": 51,
+        "rem_sleep": 98,
+        "restfulness": 58,
+        "timing": 90,
+        "total_sleep": 72
+      },
+      "day": "2024-04-20",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 95,
+        "latency": 81,
+        "rem_sleep": 100,
+        "restfulness": 58,
+        "timing": 64,
+        "total_sleep": 100
+      },
+      "day": "2024-04-21",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 30,
+        "efficiency": 30,
+        "latency": 1,
+        "rem_sleep": 55,
+        "restfulness": 38,
+        "timing": 24,
+        "total_sleep": 45
+      },
+      "day": "2024-04-22",
+      "score": 35
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 67,
+        "latency": 1,
+        "rem_sleep": 95,
+        "restfulness": 61,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2024-04-23",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 41,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 99,
+        "restfulness": 63,
+        "timing": 93,
+        "total_sleep": 99
+      },
+      "day": "2024-04-24",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 96,
+        "latency": 75,
+        "rem_sleep": 99,
+        "restfulness": 58,
+        "timing": 94,
+        "total_sleep": 82
+      },
+      "day": "2024-04-25",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 88,
+        "latency": 75,
+        "rem_sleep": 98,
+        "restfulness": 57,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2024-04-26",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 80,
+        "efficiency": 81,
+        "latency": 91,
+        "rem_sleep": 81,
+        "restfulness": 61,
+        "timing": 100,
+        "total_sleep": 61
+      },
+      "day": "2024-04-27",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 1,
+        "efficiency": 18,
+        "latency": 78,
+        "rem_sleep": 3,
+        "restfulness": 30,
+        "timing": 1,
+        "total_sleep": 11
+      },
+      "day": "2024-04-28",
+      "score": 18
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 79,
+        "latency": 78,
+        "rem_sleep": 100,
+        "restfulness": 61,
+        "timing": 99,
+        "total_sleep": 100
+      },
+      "day": "2024-04-29",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 58,
+        "latency": 91,
+        "rem_sleep": 88,
+        "restfulness": 40,
+        "timing": 68,
+        "total_sleep": 72
+      },
+      "day": "2024-04-30",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 43,
+        "efficiency": 81,
+        "latency": 81,
+        "rem_sleep": 97,
+        "restfulness": 64,
+        "timing": 80,
+        "total_sleep": 95
+      },
+      "day": "2024-05-01",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 91,
+        "restfulness": 61,
+        "timing": 96,
+        "total_sleep": 68
+      },
+      "day": "2024-05-02",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 86,
+        "latency": 46,
+        "rem_sleep": 98,
+        "restfulness": 53,
+        "timing": 76,
+        "total_sleep": 88
+      },
+      "day": "2024-05-03",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 76,
+        "latency": 97,
+        "rem_sleep": 97,
+        "restfulness": 56,
+        "timing": 69,
+        "total_sleep": 90
+      },
+      "day": "2024-05-04",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 95,
+        "latency": 89,
+        "rem_sleep": 100,
+        "restfulness": 58,
+        "timing": 51,
+        "total_sleep": 100
+      },
+      "day": "2024-05-05",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 29,
+        "efficiency": 81,
+        "latency": 23,
+        "rem_sleep": 96,
+        "restfulness": 54,
+        "timing": 67,
+        "total_sleep": 80
+      },
+      "day": "2024-05-06",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 98,
+        "latency": 89,
+        "rem_sleep": 89,
+        "restfulness": 70,
+        "timing": 60,
+        "total_sleep": 65
+      },
+      "day": "2024-05-07",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 51,
+        "efficiency": 97,
+        "latency": 64,
+        "rem_sleep": 98,
+        "restfulness": 74,
+        "timing": 81,
+        "total_sleep": 84
+      },
+      "day": "2024-05-08",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 40,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 65,
+        "timing": 97,
+        "total_sleep": 73
+      },
+      "day": "2024-05-09",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 45,
+        "efficiency": 98,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 69,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2024-05-10",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 51,
+        "efficiency": 76,
+        "latency": 78,
+        "rem_sleep": 79,
+        "restfulness": 58,
+        "timing": 92,
+        "total_sleep": 62
+      },
+      "day": "2024-05-11",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 93,
+        "latency": 72,
+        "rem_sleep": 98,
+        "restfulness": 61,
+        "timing": 99,
+        "total_sleep": 90
+      },
+      "day": "2024-05-12",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 95,
+        "latency": 59,
+        "rem_sleep": 99,
+        "restfulness": 67,
+        "timing": 85,
+        "total_sleep": 86
+      },
+      "day": "2024-05-13",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 90,
+        "latency": 51,
+        "rem_sleep": 97,
+        "restfulness": 55,
+        "timing": 89,
+        "total_sleep": 86
+      },
+      "day": "2024-05-14",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 76,
+        "latency": 91,
+        "rem_sleep": 98,
+        "restfulness": 55,
+        "timing": 93,
+        "total_sleep": 98
+      },
+      "day": "2024-05-15",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 44,
+        "efficiency": 76,
+        "latency": 46,
+        "rem_sleep": 97,
+        "restfulness": 55,
+        "timing": 100,
+        "total_sleep": 84
+      },
+      "day": "2024-05-16",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 95,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 74,
+        "timing": 97,
+        "total_sleep": 77
+      },
+      "day": "2024-05-17",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 95,
+        "latency": 83,
+        "rem_sleep": 100,
+        "restfulness": 57,
+        "timing": 82,
+        "total_sleep": 94
+      },
+      "day": "2024-05-18",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 100,
+        "restfulness": 62,
+        "timing": 93,
+        "total_sleep": 97
+      },
+      "day": "2024-05-19",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 82,
+        "efficiency": 90,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 60,
+        "timing": 92,
+        "total_sleep": 80
+      },
+      "day": "2024-05-20",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 68,
+        "efficiency": 93,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 65,
+        "timing": 90,
+        "total_sleep": 87
+      },
+      "day": "2024-05-21",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 67,
+        "timing": 79,
+        "total_sleep": 90
+      },
+      "day": "2024-05-22",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 67,
+        "latency": 14,
+        "rem_sleep": 80,
+        "restfulness": 64,
+        "timing": 81,
+        "total_sleep": 68
+      },
+      "day": "2024-05-23",
+      "score": 63
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 67,
+        "latency": 64,
+        "rem_sleep": 96,
+        "restfulness": 53,
+        "timing": 100,
+        "total_sleep": 84
+      },
+      "day": "2024-05-24",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 95,
+        "latency": 94,
+        "rem_sleep": 99,
+        "restfulness": 58,
+        "timing": 89,
+        "total_sleep": 78
+      },
+      "day": "2024-05-25",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 80,
+        "efficiency": 95,
+        "latency": 86,
+        "rem_sleep": 88,
+        "restfulness": 61,
+        "timing": 100,
+        "total_sleep": 65
+      },
+      "day": "2024-05-26",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 92,
+        "efficiency": 81,
+        "latency": 91,
+        "rem_sleep": 94,
+        "restfulness": 57,
+        "timing": 100,
+        "total_sleep": 93
+      },
+      "day": "2024-05-27",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 37,
+        "efficiency": 97,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 59,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2024-05-28",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 95,
+        "latency": 97,
+        "rem_sleep": 98,
+        "restfulness": 56,
+        "timing": 99,
+        "total_sleep": 85
+      },
+      "day": "2024-05-29",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 79,
+        "latency": 83,
+        "rem_sleep": 100,
+        "restfulness": 86,
+        "timing": 81,
+        "total_sleep": 85
+      },
+      "day": "2024-05-30",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 40,
+        "efficiency": 53,
+        "latency": 1,
+        "rem_sleep": 58,
+        "restfulness": 78,
+        "timing": 68,
+        "total_sleep": 62
+      },
+      "day": "2024-05-31",
+      "score": 55
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 100,
+        "latency": 67,
+        "rem_sleep": 88,
+        "restfulness": 63,
+        "timing": 79,
+        "total_sleep": 60
+      },
+      "day": "2024-06-01",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 95,
+        "latency": 70,
+        "rem_sleep": 82,
+        "restfulness": 65,
+        "timing": 72,
+        "total_sleep": 91
+      },
+      "day": "2024-06-02",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 95,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 54,
+        "timing": 59,
+        "total_sleep": 74
+      },
+      "day": "2024-06-03",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 96,
+        "latency": 70,
+        "rem_sleep": 99,
+        "restfulness": 56,
+        "timing": 86,
+        "total_sleep": 82
+      },
+      "day": "2024-06-04",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 90,
+        "latency": 72,
+        "rem_sleep": 99,
+        "restfulness": 66,
+        "timing": 82,
+        "total_sleep": 75
+      },
+      "day": "2024-06-05",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 97,
+        "latency": 72,
+        "rem_sleep": 81,
+        "restfulness": 70,
+        "timing": 90,
+        "total_sleep": 52
+      },
+      "day": "2024-06-06",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 88,
+        "latency": 75,
+        "rem_sleep": 99,
+        "restfulness": 72,
+        "timing": 68,
+        "total_sleep": 80
+      },
+      "day": "2024-06-07",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 86,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 59,
+        "timing": 93,
+        "total_sleep": 94
+      },
+      "day": "2024-06-08",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 93,
+        "latency": 86,
+        "rem_sleep": 99,
+        "restfulness": 63,
+        "timing": 92,
+        "total_sleep": 96
+      },
+      "day": "2024-06-09",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 99,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 73,
+        "timing": 71,
+        "total_sleep": 76
+      },
+      "day": "2024-06-10",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 68,
+        "efficiency": 96,
+        "latency": 70,
+        "rem_sleep": 100,
+        "restfulness": 66,
+        "timing": 77,
+        "total_sleep": 93
+      },
+      "day": "2024-06-11",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 72,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 69,
+        "timing": 70,
+        "total_sleep": 77
+      },
+      "day": "2024-06-12",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 86,
+        "latency": 83,
+        "rem_sleep": 88,
+        "restfulness": 59,
+        "timing": 84,
+        "total_sleep": 85
+      },
+      "day": "2024-06-13",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 51,
+        "efficiency": 86,
+        "latency": 56,
+        "rem_sleep": 75,
+        "restfulness": 55,
+        "timing": 65,
+        "total_sleep": 79
+      },
+      "day": "2024-06-14",
+      "score": 69
+    },
+    {
+      "contributors": {
+        "deep_sleep": 22,
+        "efficiency": 72,
+        "latency": 51,
+        "rem_sleep": 81,
+        "restfulness": 50,
+        "timing": 23,
+        "total_sleep": 55
+      },
+      "day": "2024-06-15",
+      "score": 52
+    },
+    {
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 90,
+        "latency": 78,
+        "rem_sleep": 93,
+        "restfulness": 49,
+        "timing": 100,
+        "total_sleep": 97
+      },
+      "day": "2024-06-16",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 100,
+        "restfulness": 68,
+        "timing": 89,
+        "total_sleep": 97
+      },
+      "day": "2024-06-17",
+      "score": 89
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 93,
+        "latency": 72,
+        "rem_sleep": 99,
+        "restfulness": 61,
+        "timing": 88,
+        "total_sleep": 88
+      },
+      "day": "2024-06-18",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 93,
+        "latency": 83,
+        "rem_sleep": 97,
+        "restfulness": 53,
+        "timing": 68,
+        "total_sleep": 88
+      },
+      "day": "2024-06-19",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 96,
+        "latency": 78,
+        "rem_sleep": 98,
+        "restfulness": 56,
+        "timing": 100,
+        "total_sleep": 84
+      },
+      "day": "2024-06-20",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 65,
+        "latency": 62,
+        "rem_sleep": 85,
+        "restfulness": 64,
+        "timing": 63,
+        "total_sleep": 64
+      },
+      "day": "2024-06-21",
+      "score": 67
+    },
+    {
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 81,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 51,
+        "timing": 83,
+        "total_sleep": 86
+      },
+      "day": "2024-06-22",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 86,
+        "efficiency": 62,
+        "latency": 86,
+        "rem_sleep": 49,
+        "restfulness": 68,
+        "timing": 42,
+        "total_sleep": 56
+      },
+      "day": "2024-06-23",
+      "score": 63
+    },
+    {
+      "contributors": {
+        "deep_sleep": 88,
+        "efficiency": 90,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 73,
+        "timing": 90,
+        "total_sleep": 96
+      },
+      "day": "2024-06-24",
+      "score": 91
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 60,
+        "latency": 43,
+        "rem_sleep": 92,
+        "restfulness": 52,
+        "timing": 86,
+        "total_sleep": 74
+      },
+      "day": "2024-06-25",
+      "score": 67
+    },
+    {
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 72,
+        "latency": 81,
+        "rem_sleep": 98,
+        "restfulness": 66,
+        "timing": 100,
+        "total_sleep": 86
+      },
+      "day": "2024-06-26",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 97,
+        "latency": 72,
+        "rem_sleep": 98,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2024-06-27",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 96,
+        "latency": 67,
+        "rem_sleep": 95,
+        "restfulness": 76,
+        "timing": 72,
+        "total_sleep": 71
+      },
+      "day": "2024-06-28",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 79,
+        "latency": 91,
+        "rem_sleep": 97,
+        "restfulness": 67,
+        "timing": 92,
+        "total_sleep": 100
+      },
+      "day": "2024-06-29",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 48,
+        "latency": 97,
+        "rem_sleep": 83,
+        "restfulness": 25,
+        "timing": 100,
+        "total_sleep": 100
+      },
+      "day": "2024-06-30",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 45,
+        "efficiency": 88,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 63,
+        "timing": 69,
+        "total_sleep": 74
+      },
+      "day": "2024-07-01",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 24,
+        "efficiency": 98,
+        "latency": 86,
+        "rem_sleep": 100,
+        "restfulness": 65,
+        "timing": 79,
+        "total_sleep": 97
+      },
+      "day": "2024-07-02",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 37,
+        "efficiency": 65,
+        "latency": 99,
+        "rem_sleep": 73,
+        "restfulness": 51,
+        "timing": 71,
+        "total_sleep": 76
+      },
+      "day": "2024-07-03",
+      "score": 69
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 86,
+        "latency": 70,
+        "rem_sleep": 75,
+        "restfulness": 62,
+        "timing": 81,
+        "total_sleep": 89
+      },
+      "day": "2024-07-04",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 91,
+        "restfulness": 68,
+        "timing": 82,
+        "total_sleep": 87
+      },
+      "day": "2024-07-05",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 24,
+        "efficiency": 100,
+        "latency": 83,
+        "rem_sleep": 96,
+        "restfulness": 66,
+        "timing": 81,
+        "total_sleep": 85
+      },
+      "day": "2024-07-06",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 44,
+        "efficiency": 69,
+        "latency": 24,
+        "rem_sleep": 96,
+        "restfulness": 63,
+        "timing": 63,
+        "total_sleep": 75
+      },
+      "day": "2024-07-07",
+      "score": 65
+    },
+    {
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 86,
+        "latency": 86,
+        "rem_sleep": 97,
+        "restfulness": 54,
+        "timing": 79,
+        "total_sleep": 91
+      },
+      "day": "2024-07-08",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 76,
+        "latency": 51,
+        "rem_sleep": 68,
+        "restfulness": 81,
+        "timing": 32,
+        "total_sleep": 51
+      },
+      "day": "2024-07-09",
+      "score": 60
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 88,
+        "latency": 91,
+        "rem_sleep": 98,
+        "restfulness": 70,
+        "timing": 72,
+        "total_sleep": 77
+      },
+      "day": "2024-07-10",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 81,
+        "latency": 81,
+        "rem_sleep": 98,
+        "restfulness": 64,
+        "timing": 65,
+        "total_sleep": 79
+      },
+      "day": "2024-07-11",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 79,
+        "latency": 22,
+        "rem_sleep": 98,
+        "restfulness": 58,
+        "timing": 82,
+        "total_sleep": 95
+      },
+      "day": "2024-07-12",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 76,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 76,
+        "timing": 84,
+        "total_sleep": 81
+      },
+      "day": "2024-07-13",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 76,
+        "latency": 89,
+        "rem_sleep": 95,
+        "restfulness": 48,
+        "timing": 70,
+        "total_sleep": 72
+      },
+      "day": "2024-07-14",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 72,
+        "latency": 51,
+        "rem_sleep": 55,
+        "restfulness": 63,
+        "timing": 90,
+        "total_sleep": 85
+      },
+      "day": "2024-07-15",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 69,
+        "efficiency": 83,
+        "latency": 97,
+        "rem_sleep": 56,
+        "restfulness": 57,
+        "timing": 83,
+        "total_sleep": 84
+      },
+      "day": "2024-07-16",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 90,
+        "latency": 81,
+        "rem_sleep": 82,
+        "restfulness": 69,
+        "timing": 68,
+        "total_sleep": 75
+      },
+      "day": "2024-07-17",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 60,
+        "latency": 64,
+        "rem_sleep": 97,
+        "restfulness": 38,
+        "timing": 79,
+        "total_sleep": 98
+      },
+      "day": "2024-07-18",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 96,
+        "latency": 75,
+        "rem_sleep": 96,
+        "restfulness": 50,
+        "timing": 88,
+        "total_sleep": 98
+      },
+      "day": "2024-07-19",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 53,
+        "latency": 72,
+        "rem_sleep": 70,
+        "restfulness": 23,
+        "timing": 89,
+        "total_sleep": 72
+      },
+      "day": "2024-07-20",
+      "score": 63
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 72,
+        "latency": 72,
+        "rem_sleep": 74,
+        "restfulness": 56,
+        "timing": 90,
+        "total_sleep": 96
+      },
+      "day": "2024-07-21",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 88,
+        "latency": 91,
+        "rem_sleep": 68,
+        "restfulness": 57,
+        "timing": 74,
+        "total_sleep": 90
+      },
+      "day": "2024-07-22",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 97,
+        "latency": 99,
+        "rem_sleep": 98,
+        "restfulness": 68,
+        "timing": 99,
+        "total_sleep": 86
+      },
+      "day": "2024-07-23",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 34,
+        "efficiency": 96,
+        "latency": 89,
+        "rem_sleep": 95,
+        "restfulness": 54,
+        "timing": 100,
+        "total_sleep": 67
+      },
+      "day": "2024-07-24",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 80,
+        "efficiency": 81,
+        "latency": 35,
+        "rem_sleep": 97,
+        "restfulness": 53,
+        "timing": 100,
+        "total_sleep": 100
+      },
+      "day": "2024-07-25",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 67,
+        "latency": 22,
+        "rem_sleep": 96,
+        "restfulness": 52,
+        "timing": 99,
+        "total_sleep": 85
+      },
+      "day": "2024-07-26",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 57,
+        "efficiency": 48,
+        "latency": 78,
+        "rem_sleep": 48,
+        "restfulness": 33,
+        "timing": 100,
+        "total_sleep": 70
+      },
+      "day": "2024-07-27",
+      "score": 63
+    },
+    {
+      "contributors": {
+        "deep_sleep": 41,
+        "efficiency": 93,
+        "latency": 29,
+        "rem_sleep": 95,
+        "restfulness": 64,
+        "timing": 84,
+        "total_sleep": 86
+      },
+      "day": "2024-07-28",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 36,
+        "efficiency": 81,
+        "latency": 86,
+        "rem_sleep": 98,
+        "restfulness": 50,
+        "timing": 82,
+        "total_sleep": 81
+      },
+      "day": "2024-07-29",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 32,
+        "efficiency": 93,
+        "latency": 83,
+        "rem_sleep": 97,
+        "restfulness": 60,
+        "timing": 74,
+        "total_sleep": 65
+      },
+      "day": "2024-07-30",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 36,
+        "efficiency": 81,
+        "latency": 22,
+        "rem_sleep": 87,
+        "restfulness": 61,
+        "timing": 92,
+        "total_sleep": 87
+      },
+      "day": "2024-07-31",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 51,
+        "efficiency": 69,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 56,
+        "timing": 94,
+        "total_sleep": 75
+      },
+      "day": "2024-08-01",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 72,
+        "latency": 29,
+        "rem_sleep": 86,
+        "restfulness": 67,
+        "timing": 93,
+        "total_sleep": 85
+      },
+      "day": "2024-08-02",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 60,
+        "latency": 1,
+        "rem_sleep": 70,
+        "restfulness": 61,
+        "timing": 67,
+        "total_sleep": 57
+      },
+      "day": "2024-08-03",
+      "score": 53
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 86,
+        "latency": 72,
+        "rem_sleep": 76,
+        "restfulness": 60,
+        "timing": 91,
+        "total_sleep": 83
+      },
+      "day": "2024-08-04",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 86,
+        "efficiency": 86,
+        "latency": 97,
+        "rem_sleep": 90,
+        "restfulness": 54,
+        "timing": 67,
+        "total_sleep": 76
+      },
+      "day": "2024-08-05",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 79,
+        "latency": 70,
+        "rem_sleep": 87,
+        "restfulness": 54,
+        "timing": 89,
+        "total_sleep": 80
+      },
+      "day": "2024-08-06",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 76,
+        "latency": 78,
+        "rem_sleep": 91,
+        "restfulness": 52,
+        "timing": 100,
+        "total_sleep": 97
+      },
+      "day": "2024-08-07",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 83,
+        "latency": 75,
+        "rem_sleep": 95,
+        "restfulness": 60,
+        "timing": 79,
+        "total_sleep": 76
+      },
+      "day": "2024-08-08",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 88,
+        "latency": 40,
+        "rem_sleep": 87,
+        "restfulness": 56,
+        "timing": 89,
+        "total_sleep": 72
+      },
+      "day": "2024-08-09",
+      "score": 69
+    },
+    {
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 98,
+        "latency": 72,
+        "rem_sleep": 99,
+        "restfulness": 50,
+        "timing": 93,
+        "total_sleep": 96
+      },
+      "day": "2024-08-10",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 88,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 54,
+        "timing": 91,
+        "total_sleep": 74
+      },
+      "day": "2024-08-11",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 96,
+        "latency": 78,
+        "rem_sleep": 97,
+        "restfulness": 49,
+        "timing": 95,
+        "total_sleep": 100
+      },
+      "day": "2024-08-12",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 97,
+        "restfulness": 50,
+        "timing": 100,
+        "total_sleep": 87
+      },
+      "day": "2024-08-13",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 75,
+        "efficiency": 93,
+        "latency": 86,
+        "rem_sleep": 98,
+        "restfulness": 48,
+        "timing": 100,
+        "total_sleep": 91
+      },
+      "day": "2024-08-14",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 27,
+        "efficiency": 74,
+        "latency": 83,
+        "rem_sleep": 91,
+        "restfulness": 48,
+        "timing": 96,
+        "total_sleep": 69
+      },
+      "day": "2024-08-15",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 83,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 61,
+        "timing": 93,
+        "total_sleep": 82
+      },
+      "day": "2024-08-16",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 99,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 50,
+        "timing": 90,
+        "total_sleep": 81
+      },
+      "day": "2024-08-17",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 93,
+        "latency": 83,
+        "rem_sleep": 99,
+        "restfulness": 50,
+        "timing": 83,
+        "total_sleep": 93
+      },
+      "day": "2024-08-18",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 76,
+        "latency": 75,
+        "rem_sleep": 76,
+        "restfulness": 51,
+        "timing": 100,
+        "total_sleep": 98
+      },
+      "day": "2024-08-19",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 96,
+        "latency": 72,
+        "rem_sleep": 86,
+        "restfulness": 61,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2024-08-20",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 86,
+        "latency": 99,
+        "rem_sleep": 97,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2024-08-21",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 99,
+        "latency": 72,
+        "rem_sleep": 92,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2024-08-22",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 93,
+        "latency": 72,
+        "rem_sleep": 78,
+        "restfulness": 52,
+        "timing": 100,
+        "total_sleep": 66
+      },
+      "day": "2024-08-23",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 98,
+        "restfulness": 53,
+        "timing": 100,
+        "total_sleep": 81
+      },
+      "day": "2024-08-24",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 90,
+        "latency": 67,
+        "rem_sleep": 96,
+        "restfulness": 50,
+        "timing": 84,
+        "total_sleep": 75
+      },
+      "day": "2024-08-25",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 99,
+        "restfulness": 74,
+        "timing": 82,
+        "total_sleep": 84
+      },
+      "day": "2024-08-26",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 95,
+        "latency": 97,
+        "rem_sleep": 95,
+        "restfulness": 50,
+        "timing": 100,
+        "total_sleep": 71
+      },
+      "day": "2024-08-27",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 72,
+        "latency": 83,
+        "rem_sleep": 99,
+        "restfulness": 33,
+        "timing": 94,
+        "total_sleep": 85
+      },
+      "day": "2024-08-28",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 29,
+        "efficiency": 30,
+        "latency": 75,
+        "rem_sleep": 95,
+        "restfulness": 22,
+        "timing": 52,
+        "total_sleep": 54
+      },
+      "day": "2024-08-29",
+      "score": 50
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 95,
+        "latency": 91,
+        "rem_sleep": 98,
+        "restfulness": 69,
+        "timing": 100,
+        "total_sleep": 78
+      },
+      "day": "2024-08-30",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 95,
+        "restfulness": 54,
+        "timing": 74,
+        "total_sleep": 77
+      },
+      "day": "2024-08-31",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 98,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 59,
+        "timing": 78,
+        "total_sleep": 77
+      },
+      "day": "2024-09-01",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 88,
+        "latency": 89,
+        "rem_sleep": 100,
+        "restfulness": 61,
+        "timing": 91,
+        "total_sleep": 99
+      },
+      "day": "2024-09-02",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 86,
+        "latency": 99,
+        "rem_sleep": 87,
+        "restfulness": 56,
+        "timing": 100,
+        "total_sleep": 61
+      },
+      "day": "2024-09-03",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 82,
+        "efficiency": 83,
+        "latency": 97,
+        "rem_sleep": 98,
+        "restfulness": 59,
+        "timing": 98,
+        "total_sleep": 85
+      },
+      "day": "2024-09-04",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 60,
+        "restfulness": 59,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2024-09-05",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 53,
+        "latency": 75,
+        "rem_sleep": 82,
+        "restfulness": 30,
+        "timing": 92,
+        "total_sleep": 73
+      },
+      "day": "2024-09-06",
+      "score": 65
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 55,
+        "latency": 59,
+        "rem_sleep": 95,
+        "restfulness": 35,
+        "timing": 89,
+        "total_sleep": 80
+      },
+      "day": "2024-09-07",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 33,
+        "efficiency": 93,
+        "latency": 83,
+        "rem_sleep": 67,
+        "restfulness": 69,
+        "timing": 100,
+        "total_sleep": 45
+      },
+      "day": "2024-09-08",
+      "score": 64
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 81,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 53,
+        "timing": 100,
+        "total_sleep": 99
+      },
+      "day": "2024-09-09",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 86,
+        "latency": 75,
+        "rem_sleep": 93,
+        "restfulness": 63,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2024-09-10",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 49,
+        "efficiency": 90,
+        "latency": 75,
+        "rem_sleep": 96,
+        "restfulness": 55,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2024-09-11",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 83,
+        "latency": 94,
+        "rem_sleep": 100,
+        "restfulness": 60,
+        "timing": 100,
+        "total_sleep": 86
+      },
+      "day": "2024-09-12",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 67,
+        "latency": 86,
+        "rem_sleep": 83,
+        "restfulness": 47,
+        "timing": 79,
+        "total_sleep": 68
+      },
+      "day": "2024-09-13",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 74,
+        "latency": 64,
+        "rem_sleep": 95,
+        "restfulness": 58,
+        "timing": 92,
+        "total_sleep": 82
+      },
+      "day": "2024-09-14",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 35,
+        "efficiency": 97,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 54,
+        "timing": 78,
+        "total_sleep": 78
+      },
+      "day": "2024-09-15",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 90,
+        "latency": 67,
+        "rem_sleep": 90,
+        "restfulness": 34,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2024-09-16",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 61,
+        "timing": 82,
+        "total_sleep": 84
+      },
+      "day": "2024-09-17",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 69,
+        "latency": 70,
+        "rem_sleep": 91,
+        "restfulness": 66,
+        "timing": 80,
+        "total_sleep": 71
+      },
+      "day": "2024-09-18",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 97,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 52,
+        "timing": 80,
+        "total_sleep": 74
+      },
+      "day": "2024-09-19",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 83,
+        "latency": 83,
+        "rem_sleep": 60,
+        "restfulness": 57,
+        "timing": 60,
+        "total_sleep": 71
+      },
+      "day": "2024-09-20",
+      "score": 69
+    },
+    {
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 97,
+        "latency": 70,
+        "rem_sleep": 70,
+        "restfulness": 54,
+        "timing": 55,
+        "total_sleep": 69
+      },
+      "day": "2024-09-21",
+      "score": 69
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 93,
+        "latency": 70,
+        "rem_sleep": 100,
+        "restfulness": 53,
+        "timing": 69,
+        "total_sleep": 96
+      },
+      "day": "2024-09-22",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 81,
+        "latency": 24,
+        "rem_sleep": 96,
+        "restfulness": 64,
+        "timing": 55,
+        "total_sleep": 68
+      },
+      "day": "2024-09-23",
+      "score": 65
+    },
+    {
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 90,
+        "latency": 64,
+        "rem_sleep": 98,
+        "restfulness": 47,
+        "timing": 76,
+        "total_sleep": 91
+      },
+      "day": "2024-09-24",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 83,
+        "latency": 86,
+        "rem_sleep": 97,
+        "restfulness": 54,
+        "timing": 92,
+        "total_sleep": 83
+      },
+      "day": "2024-09-25",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 76,
+        "latency": 89,
+        "rem_sleep": 89,
+        "restfulness": 59,
+        "timing": 95,
+        "total_sleep": 79
+      },
+      "day": "2024-09-26",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 72,
+        "latency": 86,
+        "rem_sleep": 86,
+        "restfulness": 47,
+        "timing": 100,
+        "total_sleep": 90
+      },
+      "day": "2024-09-27",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 97,
+        "latency": 94,
+        "rem_sleep": 84,
+        "restfulness": 63,
+        "timing": 62,
+        "total_sleep": 77
+      },
+      "day": "2024-09-28",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 89,
+        "efficiency": 95,
+        "latency": 78,
+        "rem_sleep": 84,
+        "restfulness": 49,
+        "timing": 84,
+        "total_sleep": 96
+      },
+      "day": "2024-09-29",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 88,
+        "latency": 97,
+        "rem_sleep": 72,
+        "restfulness": 53,
+        "timing": 71,
+        "total_sleep": 76
+      },
+      "day": "2024-09-30",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 81,
+        "latency": 78,
+        "rem_sleep": 81,
+        "restfulness": 55,
+        "timing": 58,
+        "total_sleep": 70
+      },
+      "day": "2024-10-01",
+      "score": 69
+    },
+    {
+      "contributors": {
+        "deep_sleep": 38,
+        "efficiency": 96,
+        "latency": 89,
+        "rem_sleep": 97,
+        "restfulness": 51,
+        "timing": 78,
+        "total_sleep": 73
+      },
+      "day": "2024-10-02",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 96,
+        "latency": 78,
+        "rem_sleep": 75,
+        "restfulness": 61,
+        "timing": 98,
+        "total_sleep": 89
+      },
+      "day": "2024-10-03",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 37,
+        "latency": 86,
+        "rem_sleep": 99,
+        "restfulness": 33,
+        "timing": 100,
+        "total_sleep": 100
+      },
+      "day": "2024-10-04",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 96,
+        "latency": 83,
+        "rem_sleep": 98,
+        "restfulness": 65,
+        "timing": 97,
+        "total_sleep": 83
+      },
+      "day": "2024-10-05",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 79,
+        "latency": 16,
+        "rem_sleep": 98,
+        "restfulness": 55,
+        "timing": 88,
+        "total_sleep": 85
+      },
+      "day": "2024-10-06",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 49,
+        "efficiency": 79,
+        "latency": 70,
+        "rem_sleep": 85,
+        "restfulness": 52,
+        "timing": 64,
+        "total_sleep": 64
+      },
+      "day": "2024-10-07",
+      "score": 65
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 99,
+        "latency": 72,
+        "rem_sleep": 97,
+        "restfulness": 51,
+        "timing": 98,
+        "total_sleep": 90
+      },
+      "day": "2024-10-08",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 93,
+        "latency": 70,
+        "rem_sleep": 100,
+        "restfulness": 63,
+        "timing": 100,
+        "total_sleep": 77
+      },
+      "day": "2024-10-09",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 76,
+        "latency": 89,
+        "rem_sleep": 75,
+        "restfulness": 54,
+        "timing": 100,
+        "total_sleep": 73
+      },
+      "day": "2024-10-10",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 88,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 59,
+        "timing": 100,
+        "total_sleep": 89
+      },
+      "day": "2024-10-11",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 95,
+        "latency": 94,
+        "rem_sleep": 98,
+        "restfulness": 48,
+        "timing": 97,
+        "total_sleep": 82
+      },
+      "day": "2024-10-12",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 93,
+        "latency": 81,
+        "rem_sleep": 91,
+        "restfulness": 55,
+        "timing": 99,
+        "total_sleep": 76
+      },
+      "day": "2024-10-13",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 95,
+        "latency": 78,
+        "rem_sleep": 94,
+        "restfulness": 64,
+        "timing": 66,
+        "total_sleep": 72
+      },
+      "day": "2024-10-14",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 90,
+        "latency": 91,
+        "rem_sleep": 95,
+        "restfulness": 59,
+        "timing": 96,
+        "total_sleep": 77
+      },
+      "day": "2024-10-15",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 96,
+        "latency": 78,
+        "rem_sleep": 98,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 89
+      },
+      "day": "2024-10-16",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 99,
+        "latency": 70,
+        "rem_sleep": 100,
+        "restfulness": 59,
+        "timing": 87,
+        "total_sleep": 100
+      },
+      "day": "2024-10-17",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 42,
+        "efficiency": 95,
+        "latency": 94,
+        "rem_sleep": 96,
+        "restfulness": 62,
+        "timing": 89,
+        "total_sleep": 77
+      },
+      "day": "2024-10-18",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 88,
+        "latency": 78,
+        "rem_sleep": 98,
+        "restfulness": 70,
+        "timing": 84,
+        "total_sleep": 96
+      },
+      "day": "2024-10-19",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 56,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 91,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 68
+      },
+      "day": "2024-10-20",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 98,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 65,
+        "timing": 94,
+        "total_sleep": 88
+      },
+      "day": "2024-10-21",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 93,
+        "latency": 83,
+        "rem_sleep": 90,
+        "restfulness": 64,
+        "timing": 97,
+        "total_sleep": 72
+      },
+      "day": "2024-10-22",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 86,
+        "latency": 83,
+        "rem_sleep": 98,
+        "restfulness": 60,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2024-10-23",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 96,
+        "latency": 91,
+        "rem_sleep": 94,
+        "restfulness": 64,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2024-10-24",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 25,
+        "efficiency": 95,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 52,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2024-10-25",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 97,
+        "latency": 72,
+        "rem_sleep": 96,
+        "restfulness": 74,
+        "timing": 93,
+        "total_sleep": 95
+      },
+      "day": "2024-10-26",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 93,
+        "latency": 94,
+        "rem_sleep": 95,
+        "restfulness": 45,
+        "timing": 92,
+        "total_sleep": 56
+      },
+      "day": "2024-10-27",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 100,
+        "latency": 72,
+        "rem_sleep": 95,
+        "restfulness": 85,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2024-10-28",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 98,
+        "latency": 97,
+        "rem_sleep": 100,
+        "restfulness": 70,
+        "timing": 100,
+        "total_sleep": 92
+      },
+      "day": "2024-10-29",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 74,
+        "latency": 89,
+        "rem_sleep": 97,
+        "restfulness": 62,
+        "timing": 85,
+        "total_sleep": 83
+      },
+      "day": "2024-10-30",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 69,
+        "latency": 89,
+        "rem_sleep": 89,
+        "restfulness": 53,
+        "timing": 100,
+        "total_sleep": 63
+      },
+      "day": "2024-10-31",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 96,
+        "latency": 75,
+        "rem_sleep": 100,
+        "restfulness": 69,
+        "timing": 83,
+        "total_sleep": 94
+      },
+      "day": "2024-11-01",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 65,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 54,
+        "timing": 92,
+        "total_sleep": 96
+      },
+      "day": "2024-11-02",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 88,
+        "latency": 72,
+        "rem_sleep": 96,
+        "restfulness": 74,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2024-11-03",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 99,
+        "latency": 91,
+        "rem_sleep": 99,
+        "restfulness": 55,
+        "timing": 94,
+        "total_sleep": 91
+      },
+      "day": "2024-11-04",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 73,
+        "timing": 74,
+        "total_sleep": 60
+      },
+      "day": "2024-11-05",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 15,
+        "efficiency": 27,
+        "latency": 94,
+        "rem_sleep": 10,
+        "restfulness": 4,
+        "timing": 37,
+        "total_sleep": 29
+      },
+      "day": "2024-11-06",
+      "score": 29
+    },
+    {
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 95,
+        "latency": 89,
+        "rem_sleep": 96,
+        "restfulness": 64,
+        "timing": 100,
+        "total_sleep": 96
+      },
+      "day": "2024-11-07",
+      "score": 90
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 96,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 47,
+        "timing": 82,
+        "total_sleep": 82
+      },
+      "day": "2024-11-08",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 86,
+        "latency": 78,
+        "rem_sleep": 98,
+        "restfulness": 59,
+        "timing": 100,
+        "total_sleep": 92
+      },
+      "day": "2024-11-09",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 69,
+        "latency": 67,
+        "rem_sleep": 77,
+        "restfulness": 35,
+        "timing": 67,
+        "total_sleep": 79
+      },
+      "day": "2024-11-10",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 79,
+        "latency": 86,
+        "rem_sleep": 43,
+        "restfulness": 51,
+        "timing": 100,
+        "total_sleep": 43
+      },
+      "day": "2024-11-11",
+      "score": 61
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 93,
+        "latency": 97,
+        "rem_sleep": 100,
+        "restfulness": 56,
+        "timing": 87,
+        "total_sleep": 96
+      },
+      "day": "2024-11-12",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 35,
+        "efficiency": 100,
+        "latency": 72,
+        "rem_sleep": 98,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 88
+      },
+      "day": "2024-11-13",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 90,
+        "latency": 78,
+        "rem_sleep": 98,
+        "restfulness": 66,
+        "timing": 96,
+        "total_sleep": 94
+      },
+      "day": "2024-11-14",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 88,
+        "latency": 70,
+        "rem_sleep": 74,
+        "restfulness": 58,
+        "timing": 84,
+        "total_sleep": 75
+      },
+      "day": "2024-11-15",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 90,
+        "restfulness": 59,
+        "timing": 77,
+        "total_sleep": 65
+      },
+      "day": "2024-11-16",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 98,
+        "latency": 78,
+        "rem_sleep": 96,
+        "restfulness": 50,
+        "timing": 87,
+        "total_sleep": 88
+      },
+      "day": "2024-11-17",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 95,
+        "latency": 70,
+        "rem_sleep": 100,
+        "restfulness": 56,
+        "timing": 93,
+        "total_sleep": 99
+      },
+      "day": "2024-11-18",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 79,
+        "latency": 75,
+        "rem_sleep": 95,
+        "restfulness": 60,
+        "timing": 87,
+        "total_sleep": 84
+      },
+      "day": "2024-11-19",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 35,
+        "efficiency": 95,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 65,
+        "timing": 93,
+        "total_sleep": 93
+      },
+      "day": "2024-11-20",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 72,
+        "latency": 94,
+        "rem_sleep": 94,
+        "restfulness": 26,
+        "timing": 79,
+        "total_sleep": 70
+      },
+      "day": "2024-11-21",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 96,
+        "restfulness": 52,
+        "timing": 89,
+        "total_sleep": 79
+      },
+      "day": "2024-11-22",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 90,
+        "latency": 72,
+        "rem_sleep": 97,
+        "restfulness": 52,
+        "timing": 66,
+        "total_sleep": 71
+      },
+      "day": "2024-11-23",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 68,
+        "efficiency": 93,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 55,
+        "timing": 93,
+        "total_sleep": 93
+      },
+      "day": "2024-11-24",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 72,
+        "efficiency": 96,
+        "latency": 70,
+        "rem_sleep": 96,
+        "restfulness": 54,
+        "timing": 85,
+        "total_sleep": 88
+      },
+      "day": "2024-11-25",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 68,
+        "efficiency": 96,
+        "latency": 81,
+        "rem_sleep": 86,
+        "restfulness": 53,
+        "timing": 97,
+        "total_sleep": 79
+      },
+      "day": "2024-11-26",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 81,
+        "latency": 67,
+        "rem_sleep": 93,
+        "restfulness": 61,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2024-11-27",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 83,
+        "efficiency": 81,
+        "latency": 86,
+        "rem_sleep": 92,
+        "restfulness": 48,
+        "timing": 99,
+        "total_sleep": 74
+      },
+      "day": "2024-11-28",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 84,
+        "efficiency": 88,
+        "latency": 94,
+        "rem_sleep": 90,
+        "restfulness": 50,
+        "timing": 100,
+        "total_sleep": 97
+      },
+      "day": "2024-11-29",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 53,
+        "latency": 86,
+        "rem_sleep": 80,
+        "restfulness": 63,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2024-11-30",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 31,
+        "efficiency": 90,
+        "latency": 70,
+        "rem_sleep": 74,
+        "restfulness": 64,
+        "timing": 90,
+        "total_sleep": 66
+      },
+      "day": "2024-12-01",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 81,
+        "latency": 35,
+        "rem_sleep": 98,
+        "restfulness": 57,
+        "timing": 92,
+        "total_sleep": 89
+      },
+      "day": "2024-12-02",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 90,
+        "latency": 78,
+        "rem_sleep": 100,
+        "restfulness": 57,
+        "timing": 100,
+        "total_sleep": 92
+      },
+      "day": "2024-12-03",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 93,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 52,
+        "timing": 96,
+        "total_sleep": 75
+      },
+      "day": "2024-12-04",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 43,
+        "efficiency": 90,
+        "latency": 97,
+        "rem_sleep": 98,
+        "restfulness": 59,
+        "timing": 94,
+        "total_sleep": 84
+      },
+      "day": "2024-12-05",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 95,
+        "latency": 72,
+        "rem_sleep": 98,
+        "restfulness": 50,
+        "timing": 100,
+        "total_sleep": 89
+      },
+      "day": "2024-12-06",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 88,
+        "latency": 83,
+        "rem_sleep": 77,
+        "restfulness": 68,
+        "timing": 72,
+        "total_sleep": 57
+      },
+      "day": "2024-12-07",
+      "score": 67
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 83,
+        "latency": 15,
+        "rem_sleep": 95,
+        "restfulness": 65,
+        "timing": 100,
+        "total_sleep": 91
+      },
+      "day": "2024-12-08",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 96,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 56,
+        "timing": 86,
+        "total_sleep": 92
+      },
+      "day": "2024-12-09",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 83,
+        "latency": 91,
+        "rem_sleep": 100,
+        "restfulness": 57,
+        "timing": 100,
+        "total_sleep": 89
+      },
+      "day": "2024-12-10",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 90,
+        "latency": 97,
+        "rem_sleep": 90,
+        "restfulness": 55,
+        "timing": 97,
+        "total_sleep": 81
+      },
+      "day": "2024-12-11",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 31,
+        "efficiency": 90,
+        "latency": 89,
+        "rem_sleep": 70,
+        "restfulness": 57,
+        "timing": 72,
+        "total_sleep": 54
+      },
+      "day": "2024-12-12",
+      "score": 63
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 96,
+        "latency": 97,
+        "rem_sleep": 99,
+        "restfulness": 57,
+        "timing": 100,
+        "total_sleep": 90
+      },
+      "day": "2024-12-13",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 88,
+        "latency": 91,
+        "rem_sleep": 97,
+        "restfulness": 45,
+        "timing": 91,
+        "total_sleep": 74
+      },
+      "day": "2024-12-14",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 37,
+        "efficiency": 86,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 58,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2024-12-15",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 95,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 63,
+        "timing": 98,
+        "total_sleep": 84
+      },
+      "day": "2024-12-16",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 17,
+        "efficiency": 97,
+        "latency": 91,
+        "rem_sleep": 97,
+        "restfulness": 50,
+        "timing": 94,
+        "total_sleep": 83
+      },
+      "day": "2024-12-17",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 88,
+        "latency": 72,
+        "rem_sleep": 80,
+        "restfulness": 54,
+        "timing": 96,
+        "total_sleep": 79
+      },
+      "day": "2024-12-18",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 90,
+        "latency": 86,
+        "rem_sleep": 71,
+        "restfulness": 56,
+        "timing": 74,
+        "total_sleep": 68
+      },
+      "day": "2024-12-19",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 93,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 39,
+        "timing": 93,
+        "total_sleep": 90
+      },
+      "day": "2024-12-20",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 98,
+        "latency": 75,
+        "rem_sleep": 98,
+        "restfulness": 54,
+        "timing": 76,
+        "total_sleep": 70
+      },
+      "day": "2024-12-21",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 72,
+        "latency": 86,
+        "rem_sleep": 92,
+        "restfulness": 56,
+        "timing": 93,
+        "total_sleep": 76
+      },
+      "day": "2024-12-22",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 86,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 62,
+        "timing": 95,
+        "total_sleep": 89
+      },
+      "day": "2024-12-23",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 81,
+        "latency": 94,
+        "rem_sleep": 99,
+        "restfulness": 66,
+        "timing": 71,
+        "total_sleep": 83
+      },
+      "day": "2024-12-24",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 90,
+        "latency": 81,
+        "rem_sleep": 96,
+        "restfulness": 65,
+        "timing": 74,
+        "total_sleep": 85
+      },
+      "day": "2024-12-25",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 72,
+        "latency": 97,
+        "rem_sleep": 69,
+        "restfulness": 53,
+        "timing": 80,
+        "total_sleep": 81
+      },
+      "day": "2024-12-26",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 41,
+        "efficiency": 76,
+        "latency": 89,
+        "rem_sleep": 99,
+        "restfulness": 49,
+        "timing": 89,
+        "total_sleep": 86
+      },
+      "day": "2024-12-27",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 33,
+        "efficiency": 67,
+        "latency": 75,
+        "rem_sleep": 95,
+        "restfulness": 53,
+        "timing": 74,
+        "total_sleep": 79
+      },
+      "day": "2024-12-28",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 88,
+        "latency": 83,
+        "rem_sleep": 98,
+        "restfulness": 47,
+        "timing": 74,
+        "total_sleep": 96
+      },
+      "day": "2024-12-29",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 76,
+        "latency": 81,
+        "rem_sleep": 92,
+        "restfulness": 44,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2024-12-30",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 93,
+        "latency": 67,
+        "rem_sleep": 81,
+        "restfulness": 60,
+        "timing": 74,
+        "total_sleep": 79
+      },
+      "day": "2024-12-31",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 33,
+        "efficiency": 79,
+        "latency": 78,
+        "rem_sleep": 49,
+        "restfulness": 54,
+        "timing": 70,
+        "total_sleep": 40
+      },
+      "day": "2025-01-01",
+      "score": 53
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 93,
+        "latency": 83,
+        "rem_sleep": 100,
+        "restfulness": 63,
+        "timing": 86,
+        "total_sleep": 94
+      },
+      "day": "2025-01-02",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 27,
+        "efficiency": 60,
+        "latency": 51,
+        "rem_sleep": 69,
+        "restfulness": 19,
+        "timing": 93,
+        "total_sleep": 99
+      },
+      "day": "2025-01-03",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 83,
+        "latency": 97,
+        "rem_sleep": 67,
+        "restfulness": 47,
+        "timing": 20,
+        "total_sleep": 72
+      },
+      "day": "2025-01-04",
+      "score": 64
+    },
+    {
+      "contributors": {
+        "deep_sleep": 43,
+        "efficiency": 95,
+        "latency": 94,
+        "rem_sleep": 94,
+        "restfulness": 51,
+        "timing": 95,
+        "total_sleep": 94
+      },
+      "day": "2025-01-05",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 83,
+        "latency": 86,
+        "rem_sleep": 94,
+        "restfulness": 60,
+        "timing": 94,
+        "total_sleep": 92
+      },
+      "day": "2025-01-06",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 97,
+        "latency": 94,
+        "rem_sleep": 96,
+        "restfulness": 61,
+        "timing": 95,
+        "total_sleep": 88
+      },
+      "day": "2025-01-07",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 79,
+        "efficiency": 90,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 67,
+        "timing": 91,
+        "total_sleep": 99
+      },
+      "day": "2025-01-08",
+      "score": 89
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 86,
+        "latency": 86,
+        "rem_sleep": 92,
+        "restfulness": 53,
+        "timing": 80,
+        "total_sleep": 93
+      },
+      "day": "2025-01-09",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 51,
+        "latency": 91,
+        "rem_sleep": 79,
+        "restfulness": 52,
+        "timing": 89,
+        "total_sleep": 83
+      },
+      "day": "2025-01-10",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 93,
+        "efficiency": 96,
+        "latency": 94,
+        "rem_sleep": 98,
+        "restfulness": 72,
+        "timing": 74,
+        "total_sleep": 93
+      },
+      "day": "2025-01-11",
+      "score": 89
+    },
+    {
+      "contributors": {
+        "deep_sleep": 56,
+        "efficiency": 60,
+        "latency": 78,
+        "rem_sleep": 76,
+        "restfulness": 15,
+        "timing": 90,
+        "total_sleep": 93
+      },
+      "day": "2025-01-13",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 74,
+        "latency": 97,
+        "rem_sleep": 49,
+        "restfulness": 64,
+        "timing": 97,
+        "total_sleep": 48
+      },
+      "day": "2025-01-14",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 93,
+        "latency": 40,
+        "rem_sleep": 98,
+        "restfulness": 64,
+        "timing": 81,
+        "total_sleep": 97
+      },
+      "day": "2025-01-15",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 44,
+        "latency": 94,
+        "rem_sleep": 84,
+        "restfulness": 47,
+        "timing": 90,
+        "total_sleep": 74
+      },
+      "day": "2025-01-16",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 86,
+        "latency": 81,
+        "rem_sleep": 79,
+        "restfulness": 64,
+        "timing": 92,
+        "total_sleep": 85
+      },
+      "day": "2025-01-17",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 93,
+        "latency": 86,
+        "rem_sleep": 95,
+        "restfulness": 70,
+        "timing": 94,
+        "total_sleep": 66
+      },
+      "day": "2025-01-18",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 21,
+        "latency": 37,
+        "rem_sleep": 92,
+        "restfulness": 38,
+        "timing": 35,
+        "total_sleep": 76
+      },
+      "day": "2025-01-19",
+      "score": 56
+    },
+    {
+      "contributors": {
+        "deep_sleep": 35,
+        "efficiency": 81,
+        "latency": 78,
+        "rem_sleep": 72,
+        "restfulness": 71,
+        "timing": 44,
+        "total_sleep": 62
+      },
+      "day": "2025-01-20",
+      "score": 64
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 48,
+        "latency": 1,
+        "rem_sleep": 70,
+        "restfulness": 56,
+        "timing": 54,
+        "total_sleep": 63
+      },
+      "day": "2025-01-21",
+      "score": 54
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 79,
+        "latency": 17,
+        "rem_sleep": 82,
+        "restfulness": 59,
+        "timing": 96,
+        "total_sleep": 83
+      },
+      "day": "2025-01-22",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 96,
+        "latency": 89,
+        "rem_sleep": 90,
+        "restfulness": 51,
+        "timing": 88,
+        "total_sleep": 72
+      },
+      "day": "2025-01-23",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 82,
+        "efficiency": 67,
+        "latency": 94,
+        "rem_sleep": 65,
+        "restfulness": 67,
+        "timing": 77,
+        "total_sleep": 60
+      },
+      "day": "2025-01-24",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 96,
+        "latency": 83,
+        "rem_sleep": 96,
+        "restfulness": 65,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2025-01-25",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 98,
+        "latency": 97,
+        "rem_sleep": 98,
+        "restfulness": 54,
+        "timing": 71,
+        "total_sleep": 85
+      },
+      "day": "2025-01-26",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 93,
+        "latency": 75,
+        "rem_sleep": 69,
+        "restfulness": 58,
+        "timing": 95,
+        "total_sleep": 68
+      },
+      "day": "2025-01-27",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 88,
+        "latency": 72,
+        "rem_sleep": 95,
+        "restfulness": 67,
+        "timing": 74,
+        "total_sleep": 62
+      },
+      "day": "2025-01-28",
+      "score": 69
+    },
+    {
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 95,
+        "latency": 91,
+        "rem_sleep": 100,
+        "restfulness": 56,
+        "timing": 50,
+        "total_sleep": 100
+      },
+      "day": "2025-01-29",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 100,
+        "latency": 78,
+        "rem_sleep": 97,
+        "restfulness": 59,
+        "timing": 54,
+        "total_sleep": 88
+      },
+      "day": "2025-01-30",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 56,
+        "efficiency": 81,
+        "latency": 97,
+        "rem_sleep": 93,
+        "restfulness": 58,
+        "timing": 66,
+        "total_sleep": 65
+      },
+      "day": "2025-01-31",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 90,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 55,
+        "timing": 93,
+        "total_sleep": 99
+      },
+      "day": "2025-02-01",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 93,
+        "latency": 81,
+        "rem_sleep": 59,
+        "restfulness": 64,
+        "timing": 45,
+        "total_sleep": 37
+      },
+      "day": "2025-02-02",
+      "score": 55
+    },
+    {
+      "contributors": {
+        "deep_sleep": 50,
+        "efficiency": 97,
+        "latency": 97,
+        "rem_sleep": 98,
+        "restfulness": 70,
+        "timing": 95,
+        "total_sleep": 85
+      },
+      "day": "2025-02-03",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 49,
+        "efficiency": 96,
+        "latency": 83,
+        "rem_sleep": 100,
+        "restfulness": 47,
+        "timing": 100,
+        "total_sleep": 86
+      },
+      "day": "2025-02-04",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 90,
+        "latency": 86,
+        "rem_sleep": 97,
+        "restfulness": 58,
+        "timing": 100,
+        "total_sleep": 85
+      },
+      "day": "2025-02-05",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 98,
+        "latency": 86,
+        "rem_sleep": 97,
+        "restfulness": 57,
+        "timing": 82,
+        "total_sleep": 69
+      },
+      "day": "2025-02-06",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 44,
+        "latency": 1,
+        "rem_sleep": 67,
+        "restfulness": 41,
+        "timing": 61,
+        "total_sleep": 51
+      },
+      "day": "2025-02-07",
+      "score": 47
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 90,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 59,
+        "timing": 97,
+        "total_sleep": 80
+      },
+      "day": "2025-02-08",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 49,
+        "efficiency": 98,
+        "latency": 75,
+        "rem_sleep": 100,
+        "restfulness": 61,
+        "timing": 90,
+        "total_sleep": 79
+      },
+      "day": "2025-02-09",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 86,
+        "latency": 83,
+        "rem_sleep": 96,
+        "restfulness": 44,
+        "timing": 90,
+        "total_sleep": 85
+      },
+      "day": "2025-02-10",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 79,
+        "latency": 81,
+        "rem_sleep": 64,
+        "restfulness": 57,
+        "timing": 96,
+        "total_sleep": 52
+      },
+      "day": "2025-02-11",
+      "score": 64
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 88,
+        "latency": 97,
+        "rem_sleep": 100,
+        "restfulness": 64,
+        "timing": 93,
+        "total_sleep": 86
+      },
+      "day": "2025-02-12",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 90,
+        "latency": 64,
+        "rem_sleep": 98,
+        "restfulness": 69,
+        "timing": 93,
+        "total_sleep": 82
+      },
+      "day": "2025-02-14",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 62,
+        "latency": 78,
+        "rem_sleep": 77,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 55
+      },
+      "day": "2025-02-15",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 76,
+        "latency": 83,
+        "rem_sleep": 98,
+        "restfulness": 62,
+        "timing": 96,
+        "total_sleep": 98
+      },
+      "day": "2025-02-16",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 60,
+        "latency": 70,
+        "rem_sleep": 95,
+        "restfulness": 53,
+        "timing": 89,
+        "total_sleep": 100
+      },
+      "day": "2025-02-17",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 23,
+        "efficiency": 83,
+        "latency": 22,
+        "rem_sleep": 95,
+        "restfulness": 60,
+        "timing": 85,
+        "total_sleep": 74
+      },
+      "day": "2025-02-18",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 76,
+        "latency": 78,
+        "rem_sleep": 97,
+        "restfulness": 39,
+        "timing": 100,
+        "total_sleep": 79
+      },
+      "day": "2025-02-19",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 47,
+        "efficiency": 97,
+        "latency": 94,
+        "rem_sleep": 98,
+        "restfulness": 62,
+        "timing": 93,
+        "total_sleep": 81
+      },
+      "day": "2025-02-20",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 81,
+        "latency": 27,
+        "rem_sleep": 76,
+        "restfulness": 54,
+        "timing": 92,
+        "total_sleep": 80
+      },
+      "day": "2025-02-21",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 76,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 51,
+        "timing": 87,
+        "total_sleep": 93
+      },
+      "day": "2025-02-22",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 95,
+        "latency": 91,
+        "rem_sleep": 96,
+        "restfulness": 53,
+        "timing": 76,
+        "total_sleep": 71
+      },
+      "day": "2025-02-23",
+      "score": 75
+    },
+    {
+      "contributors": {
+        "deep_sleep": 56,
+        "efficiency": 88,
+        "latency": 67,
+        "rem_sleep": 83,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 76
+      },
+      "day": "2025-02-24",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 67,
+        "efficiency": 79,
+        "latency": 86,
+        "rem_sleep": 88,
+        "restfulness": 55,
+        "timing": 85,
+        "total_sleep": 77
+      },
+      "day": "2025-02-25",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 27,
+        "efficiency": 65,
+        "latency": 75,
+        "rem_sleep": 72,
+        "restfulness": 77,
+        "timing": 15,
+        "total_sleep": 45
+      },
+      "day": "2025-02-26",
+      "score": 53
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 97,
+        "latency": 83,
+        "rem_sleep": 96,
+        "restfulness": 67,
+        "timing": 65,
+        "total_sleep": 74
+      },
+      "day": "2025-02-27",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 62,
+        "latency": 86,
+        "rem_sleep": 96,
+        "restfulness": 51,
+        "timing": 27,
+        "total_sleep": 90
+      },
+      "day": "2025-02-28",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 42,
+        "efficiency": 90,
+        "latency": 72,
+        "rem_sleep": 60,
+        "restfulness": 71,
+        "timing": 100,
+        "total_sleep": 33
+      },
+      "day": "2025-03-01",
+      "score": 59
+    },
+    {
+      "contributors": {
+        "deep_sleep": 11,
+        "efficiency": 86,
+        "latency": 89,
+        "rem_sleep": 99,
+        "restfulness": 54,
+        "timing": 84,
+        "total_sleep": 89
+      },
+      "day": "2025-03-02",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 31,
+        "efficiency": 76,
+        "latency": 72,
+        "rem_sleep": 27,
+        "restfulness": 36,
+        "timing": 83,
+        "total_sleep": 38
+      },
+      "day": "2025-03-03",
+      "score": 48
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 90,
+        "latency": 86,
+        "rem_sleep": 99,
+        "restfulness": 56,
+        "timing": 36,
+        "total_sleep": 83
+      },
+      "day": "2025-03-04",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 74,
+        "latency": 70,
+        "rem_sleep": 41,
+        "restfulness": 41,
+        "timing": 1,
+        "total_sleep": 21
+      },
+      "day": "2025-03-05",
+      "score": 37
+    },
+    {
+      "contributors": {
+        "deep_sleep": 91,
+        "efficiency": 83,
+        "latency": 15,
+        "rem_sleep": 97,
+        "restfulness": 77,
+        "timing": 93,
+        "total_sleep": 94
+      },
+      "day": "2025-03-06",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 36,
+        "efficiency": 98,
+        "latency": 75,
+        "rem_sleep": 97,
+        "restfulness": 58,
+        "timing": 59,
+        "total_sleep": 72
+      },
+      "day": "2025-03-07",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 100,
+        "latency": 72,
+        "rem_sleep": 100,
+        "restfulness": 68,
+        "timing": 89,
+        "total_sleep": 79
+      },
+      "day": "2025-03-08",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 95,
+        "latency": 64,
+        "rem_sleep": 100,
+        "restfulness": 61,
+        "timing": 66,
+        "total_sleep": 96
+      },
+      "day": "2025-03-09",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 58,
+        "efficiency": 86,
+        "latency": 94,
+        "rem_sleep": 98,
+        "restfulness": 63,
+        "timing": 83,
+        "total_sleep": 87
+      },
+      "day": "2025-03-10",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 93,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 62,
+        "timing": 90,
+        "total_sleep": 89
+      },
+      "day": "2025-03-11",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 79,
+        "latency": 83,
+        "rem_sleep": 86,
+        "restfulness": 51,
+        "timing": 71,
+        "total_sleep": 88
+      },
+      "day": "2025-03-12",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 55,
+        "efficiency": 95,
+        "latency": 75,
+        "rem_sleep": 99,
+        "restfulness": 57,
+        "timing": 86,
+        "total_sleep": 94
+      },
+      "day": "2025-03-14",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 31,
+        "efficiency": 51,
+        "latency": 94,
+        "rem_sleep": 72,
+        "restfulness": 58,
+        "timing": 54,
+        "total_sleep": 45
+      },
+      "day": "2025-03-15",
+      "score": 55
+    },
+    {
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 83,
+        "latency": 20,
+        "rem_sleep": 97,
+        "restfulness": 51,
+        "timing": 55,
+        "total_sleep": 74
+      },
+      "day": "2025-03-16",
+      "score": 67
+    },
+    {
+      "contributors": {
+        "deep_sleep": 53,
+        "efficiency": 95,
+        "latency": 81,
+        "rem_sleep": 97,
+        "restfulness": 53,
+        "timing": 67,
+        "total_sleep": 85
+      },
+      "day": "2025-03-17",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 79,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 57,
+        "timing": 84,
+        "total_sleep": 90
+      },
+      "day": "2025-03-18",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 96,
+        "latency": 91,
+        "rem_sleep": 98,
+        "restfulness": 54,
+        "timing": 82,
+        "total_sleep": 90
+      },
+      "day": "2025-03-19",
+      "score": 83
+    },
+    {
+      "contributors": {
+        "deep_sleep": 22,
+        "efficiency": 69,
+        "latency": 75,
+        "rem_sleep": 96,
+        "restfulness": 58,
+        "timing": 75,
+        "total_sleep": 70
+      },
+      "day": "2025-03-20",
+      "score": 67
+    },
+    {
+      "contributors": {
+        "deep_sleep": 87,
+        "efficiency": 97,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 53,
+        "timing": 88,
+        "total_sleep": 87
+      },
+      "day": "2025-03-21",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 83,
+        "latency": 83,
+        "rem_sleep": 52,
+        "restfulness": 66,
+        "timing": 70,
+        "total_sleep": 29
+      },
+      "day": "2025-03-22",
+      "score": 55
+    },
+    {
+      "contributors": {
+        "deep_sleep": 37,
+        "efficiency": 24,
+        "latency": 89,
+        "rem_sleep": 38,
+        "restfulness": 43,
+        "timing": 100,
+        "total_sleep": 25
+      },
+      "day": "2025-03-23",
+      "score": 44
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 53,
+        "latency": 78,
+        "rem_sleep": 97,
+        "restfulness": 58,
+        "timing": 28,
+        "total_sleep": 100
+      },
+      "day": "2025-03-24",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 68,
+        "efficiency": 90,
+        "latency": 37,
+        "rem_sleep": 80,
+        "restfulness": 55,
+        "timing": 100,
+        "total_sleep": 97
+      },
+      "day": "2025-03-25",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 97,
+        "latency": 83,
+        "rem_sleep": 83,
+        "restfulness": 51,
+        "timing": 73,
+        "total_sleep": 57
+      },
+      "day": "2025-03-26",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 90,
+        "latency": 81,
+        "rem_sleep": 99,
+        "restfulness": 56,
+        "timing": 81,
+        "total_sleep": 89
+      },
+      "day": "2025-03-27",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 54,
+        "efficiency": 90,
+        "latency": 94,
+        "rem_sleep": 97,
+        "restfulness": 61,
+        "timing": 80,
+        "total_sleep": 66
+      },
+      "day": "2025-03-28",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 81,
+        "latency": 72,
+        "rem_sleep": 97,
+        "restfulness": 57,
+        "timing": 85,
+        "total_sleep": 75
+      },
+      "day": "2025-03-29",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 17,
+        "efficiency": 96,
+        "latency": 67,
+        "rem_sleep": 83,
+        "restfulness": 65,
+        "timing": 81,
+        "total_sleep": 54
+      },
+      "day": "2025-03-30",
+      "score": 63
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 74,
+        "latency": 89,
+        "rem_sleep": 72,
+        "restfulness": 64,
+        "timing": 73,
+        "total_sleep": 72
+      },
+      "day": "2025-03-31",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 49,
+        "efficiency": 96,
+        "latency": 70,
+        "rem_sleep": 71,
+        "restfulness": 55,
+        "timing": 83,
+        "total_sleep": 60
+      },
+      "day": "2025-04-03",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 96,
+        "efficiency": 90,
+        "latency": 89,
+        "rem_sleep": 96,
+        "restfulness": 66,
+        "timing": 85,
+        "total_sleep": 92
+      },
+      "day": "2025-04-04",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 44,
+        "efficiency": 99,
+        "latency": 78,
+        "rem_sleep": 81,
+        "restfulness": 66,
+        "timing": 50,
+        "total_sleep": 47
+      },
+      "day": "2025-04-05",
+      "score": 62
+    },
+    {
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 86,
+        "latency": 99,
+        "rem_sleep": 100,
+        "restfulness": 74,
+        "timing": 58,
+        "total_sleep": 100
+      },
+      "day": "2025-04-06",
+      "score": 88
+    },
+    {
+      "contributors": {
+        "deep_sleep": 73,
+        "efficiency": 86,
+        "latency": 62,
+        "rem_sleep": 54,
+        "restfulness": 77,
+        "timing": 39,
+        "total_sleep": 54
+      },
+      "day": "2025-04-07",
+      "score": 62
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 90,
+        "latency": 67,
+        "rem_sleep": 97,
+        "restfulness": 55,
+        "timing": 89,
+        "total_sleep": 92
+      },
+      "day": "2025-04-08",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 85,
+        "efficiency": 93,
+        "latency": 72,
+        "rem_sleep": 87,
+        "restfulness": 57,
+        "timing": 91,
+        "total_sleep": 69
+      },
+      "day": "2025-04-09",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 81,
+        "efficiency": 86,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 66,
+        "timing": 100,
+        "total_sleep": 83
+      },
+      "day": "2025-04-10",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 100,
+        "latency": 67,
+        "rem_sleep": 100,
+        "restfulness": 59,
+        "timing": 69,
+        "total_sleep": 85
+      },
+      "day": "2025-04-11",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 86,
+        "latency": 89,
+        "rem_sleep": 79,
+        "restfulness": 56,
+        "timing": 65,
+        "total_sleep": 58
+      },
+      "day": "2025-04-12",
+      "score": 70
+    },
+    {
+      "contributors": {
+        "deep_sleep": 77,
+        "efficiency": 76,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 43,
+        "timing": 54,
+        "total_sleep": 76
+      },
+      "day": "2025-04-13",
+      "score": 71
+    },
+    {
+      "contributors": {
+        "deep_sleep": 30,
+        "efficiency": 88,
+        "latency": 83,
+        "rem_sleep": 97,
+        "restfulness": 67,
+        "timing": 78,
+        "total_sleep": 81
+      },
+      "day": "2025-04-14",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 83,
+        "latency": 75,
+        "rem_sleep": 95,
+        "restfulness": 54,
+        "timing": 68,
+        "total_sleep": 81
+      },
+      "day": "2025-04-15",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 97,
+        "latency": 91,
+        "rem_sleep": 99,
+        "restfulness": 63,
+        "timing": 100,
+        "total_sleep": 82
+      },
+      "day": "2025-04-16",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 76,
+        "efficiency": 86,
+        "latency": 70,
+        "rem_sleep": 93,
+        "restfulness": 66,
+        "timing": 90,
+        "total_sleep": 71
+      },
+      "day": "2025-04-17",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 44,
+        "efficiency": 79,
+        "latency": 48,
+        "rem_sleep": 92,
+        "restfulness": 61,
+        "timing": 68,
+        "total_sleep": 57
+      },
+      "day": "2025-04-18",
+      "score": 62
+    },
+    {
+      "contributors": {
+        "deep_sleep": 70,
+        "efficiency": 98,
+        "latency": 97,
+        "rem_sleep": 95,
+        "restfulness": 62,
+        "timing": 92,
+        "total_sleep": 73
+      },
+      "day": "2025-04-19",
+      "score": 80
+    },
+    {
+      "contributors": {
+        "deep_sleep": 71,
+        "efficiency": 74,
+        "latency": 83,
+        "rem_sleep": 95,
+        "restfulness": 64,
+        "timing": 40,
+        "total_sleep": 74
+      },
+      "day": "2025-04-20",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 46,
+        "efficiency": 96,
+        "latency": 67,
+        "rem_sleep": 98,
+        "restfulness": 65,
+        "timing": 86,
+        "total_sleep": 78
+      },
+      "day": "2025-04-21",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 99,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 66,
+        "timing": 100,
+        "total_sleep": 97
+      },
+      "day": "2025-04-22",
+      "score": 90
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 95,
+        "latency": 83,
+        "rem_sleep": 97,
+        "restfulness": 69,
+        "timing": 99,
+        "total_sleep": 87
+      },
+      "day": "2025-04-23",
+      "score": 84
+    },
+    {
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 93,
+        "latency": 83,
+        "rem_sleep": 68,
+        "restfulness": 49,
+        "timing": 100,
+        "total_sleep": 72
+      },
+      "day": "2025-04-24",
+      "score": 74
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 90,
+        "latency": 78,
+        "rem_sleep": 99,
+        "restfulness": 66,
+        "timing": 77,
+        "total_sleep": 85
+      },
+      "day": "2025-04-25",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 49,
+        "efficiency": 97,
+        "latency": 89,
+        "rem_sleep": 100,
+        "restfulness": 58,
+        "timing": 68,
+        "total_sleep": 83
+      },
+      "day": "2025-04-26",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 59,
+        "efficiency": 69,
+        "latency": 81,
+        "rem_sleep": 100,
+        "restfulness": 61,
+        "timing": 89,
+        "total_sleep": 91
+      },
+      "day": "2025-04-27",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 68,
+        "efficiency": 97,
+        "latency": 81,
+        "rem_sleep": 83,
+        "restfulness": 71,
+        "timing": 74,
+        "total_sleep": 72
+      },
+      "day": "2025-04-28",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 99,
+        "latency": 86,
+        "rem_sleep": 98,
+        "restfulness": 61,
+        "timing": 100,
+        "total_sleep": 80
+      },
+      "day": "2025-04-29",
+      "score": 81
+    },
+    {
+      "contributors": {
+        "deep_sleep": 39,
+        "efficiency": 81,
+        "latency": 81,
+        "rem_sleep": 91,
+        "restfulness": 58,
+        "timing": 83,
+        "total_sleep": 62
+      },
+      "day": "2025-04-30",
+      "score": 68
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 99,
+        "latency": 70,
+        "rem_sleep": 98,
+        "restfulness": 64,
+        "timing": 100,
+        "total_sleep": 89
+      },
+      "day": "2025-05-01",
+      "score": 87
+    },
+    {
+      "contributors": {
+        "deep_sleep": 66,
+        "efficiency": 79,
+        "latency": 67,
+        "rem_sleep": 96,
+        "restfulness": 63,
+        "timing": 84,
+        "total_sleep": 80
+      },
+      "day": "2025-05-02",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 48,
+        "efficiency": 90,
+        "latency": 78,
+        "rem_sleep": 100,
+        "restfulness": 67,
+        "timing": 100,
+        "total_sleep": 88
+      },
+      "day": "2025-05-03",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 64,
+        "efficiency": 86,
+        "latency": 70,
+        "rem_sleep": 96,
+        "restfulness": 61,
+        "timing": 91,
+        "total_sleep": 79
+      },
+      "day": "2025-05-04",
+      "score": 78
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 62,
+        "latency": 1,
+        "rem_sleep": 85,
+        "restfulness": 58,
+        "timing": 77,
+        "total_sleep": 73
+      },
+      "day": "2025-05-05",
+      "score": 66
+    },
+    {
+      "contributors": {
+        "deep_sleep": 52,
+        "efficiency": 81,
+        "latency": 86,
+        "rem_sleep": 100,
+        "restfulness": 47,
+        "timing": 97,
+        "total_sleep": 88
+      },
+      "day": "2025-05-06",
+      "score": 79
+    },
+    {
+      "contributors": {
+        "deep_sleep": 61,
+        "efficiency": 83,
+        "latency": 75,
+        "rem_sleep": 100,
+        "restfulness": 57,
+        "timing": 100,
+        "total_sleep": 89
+      },
+      "day": "2025-05-07",
+      "score": 82
+    },
+    {
+      "contributors": {
+        "deep_sleep": 60,
+        "efficiency": 86,
+        "latency": 91,
+        "rem_sleep": 97,
+        "restfulness": 51,
+        "timing": 100,
+        "total_sleep": 75
+      },
+      "day": "2025-05-08",
+      "score": 77
+    },
+    {
+      "contributors": {
+        "deep_sleep": 42,
+        "efficiency": 74,
+        "latency": 70,
+        "rem_sleep": 97,
+        "restfulness": 58,
+        "timing": 100,
+        "total_sleep": 74
+      },
+      "day": "2025-05-09",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 79,
+        "latency": 54,
+        "rem_sleep": 99,
+        "restfulness": 53,
+        "timing": 85,
+        "total_sleep": 77
+      },
+      "day": "2025-05-10",
+      "score": 73
+    },
+    {
+      "contributors": {
+        "deep_sleep": 78,
+        "efficiency": 88,
+        "latency": 97,
+        "rem_sleep": 99,
+        "restfulness": 57,
+        "timing": 69,
+        "total_sleep": 70
+      },
+      "day": "2025-05-11",
+      "score": 76
+    },
+    {
+      "contributors": {
+        "deep_sleep": 62,
+        "efficiency": 81,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 63,
+        "timing": 64,
+        "total_sleep": 70
+      },
+      "day": "2025-05-12",
+      "score": 72
+    },
+    {
+      "contributors": {
+        "deep_sleep": 95,
+        "efficiency": 98,
+        "latency": 81,
+        "rem_sleep": 100,
+        "restfulness": 68,
+        "timing": 80,
+        "total_sleep": 83
+      },
+      "day": "2025-05-13",
+      "score": 85
+    },
+    {
+      "contributors": {
+        "deep_sleep": 65,
+        "efficiency": 99,
+        "latency": 94,
+        "rem_sleep": 98,
+        "restfulness": 58,
+        "timing": 98,
+        "total_sleep": 90
+      },
+      "day": "2025-05-14",
+      "score": 86
+    },
+    {
+      "contributors": {
+        "deep_sleep": 37,
+        "efficiency": 27,
+        "latency": 67,
+        "rem_sleep": 53,
+        "restfulness": 19,
+        "timing": 78,
+        "total_sleep": 51
+      },
+      "day": "2025-05-15",
+      "score": 47
+    },
+    {
+      "contributors": {
+        "deep_sleep": 74,
+        "efficiency": 93,
+        "latency": 78,
+        "rem_sleep": 95,
+        "restfulness": 53,
+        "timing": 100,
+        "total_sleep": 91
+      },
+      "day": "2025-05-16",
+      "score": 84
+    }
+  ]
+}
